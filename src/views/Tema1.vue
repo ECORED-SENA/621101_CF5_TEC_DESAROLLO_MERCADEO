@@ -765,6 +765,30 @@
             br
             |Para Alonso Rivas (2017) la cultura tiene las siguientes características en el estudio del comportamiento de consumidor.
     LineaTiempoD.color-secundario.mb-5
+      div(numero="1" titulo="Adaptativa")
+        p En cada sociedad, la cultura orienta la conducta de las personas para garantizar la supervivencia de los grupos sociales y la convivencia entre las personas. Cada cultura determina lo que está bien o está mal, lo que puede o no puede hacerse. Ej. Para los europeos es educado estrecharse las manos para saludar, pero los orientales se inclinan.
+      div(numero="2" titulo="Fenómeno social")
+        p La cultura se genera a través de los contactos entre las personas y debe considerarse como una creación humana. Esos mismos contactos la hacen evolucionar a lo largo del tiempo. 
+
+      div(numero="3" titulo="Aprendida")
+        p  La cultura no la heredamos, como el color de los ojos o la altura. La aprendemos mediante interacción con nuestro entorno familiar, educativo y social. 
+
+      div(numero="4" titulo="Arbitraria")
+        p Los valores, creencias, actitudes y conductas de una cultura son propios de ella y es posible que sean rechazados por otra. Ej. No debe besarse nunca a una mujer musulmana al ser presentada, aunque sea en las mejillas.
+
+      div(numero="5" titulo="Cargada de valores")
+        p La cultura transmite muchas normas y valores y sugiere la conducta esperada de las personas. En caso de no comportarse como se espera se provocan reacciones de rechazo. Desde pequeños observamos cómo se comportan los adultos y nos cargamos de valores. Otros nos los enseñan de forma explícita en el seno de la familia o en los centros educativos.
+
+      div(numero="6" titulo="Facilita la comunicación")
+        p  En las culturas existen formas de transmisión, verbales y no verbales. 
+
+      div(numero="7" titulo="Adaptativa y dinámica")
+        p Se encuentra en evolución constante y se acomoda a las nuevas situaciones. El paso del tiempo cambia la perspectiva de lo que está bien o mal. Ej. Hace años resultaba muy atrevido que un hombre besara en público a una mujer, aunque fuera en la mejilla. Hoy en día se trata de una práctica no sólo socialmente admitida, sino esperada. 
+      div(numero="8" titulo="Se forja a largo plazo")
+        p  Una cultura es el resultado de años y años de acumulación de experiencias y conocimientos. N0 se crea de la noche a la mañana. Es, en cierto modo, un legado de quienes nos han precedido que cederemos a nuestros herederos.
+
+      div(numero="9" titulo="Satisface necesidades")
+        p  A través de la cultura se satisfacen las necesidades de las personas que viven dentro de ella. Permite que las personas convivan, se las aprecie y valore.
     .h5 Factores sociales
     .row.mb-5
       .col-lg-6 

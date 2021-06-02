@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'A través de este componente formativo el aprendiz debe apropiar los elementos de entrada requeridos para la elaboración del informe de segmentación de mercados y del plan de distribución para su idea de negocio o proyecto productivo.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    //fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
     menu: [
@@ -13,12 +13,12 @@ export default {
         icono: 'fas fa-home',
         titulo: 'Volver al inicio',
       },
-      // {
-      //   nombreRuta: 'introduccion',
-      //   icono: 'fas fa-info',
-      //   titulo: 'Introducción',
-      //   desarrolloContenidos: false,
-      // },
+      {
+        nombreRuta: 'introduccion',
+        icono: 'fas fa-info',
+        titulo: 'Introducción',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
@@ -103,6 +103,18 @@ export default {
             numero: '3.4',
             titulo: 'Formatos comerciales',
             hash: 't_3_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.5',
+            titulo: 'Logística',
+            hash: 't_3_5',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.6',
+            titulo: 'Plan de distribución',
+            hash: 't_3_6',
           },
         ],
       },

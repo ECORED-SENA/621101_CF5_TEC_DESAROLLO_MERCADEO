@@ -413,32 +413,107 @@ export default {
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Carballar, J. A. (2018) Social Media.',
+      tipo: 'Libro',
+      link:
+        'https://www-alfaomegacloud-com.bdigital.sena.edu.co/auth/ip?intended_url=https://www-alfaomegacloud-com.bdigital.sena.edu.co/reader/social-media-marketing-personal-y-profesional?location=1 ',
+    },
+    {
+      texto: 'Céspedes, A. (2008) Principios de mercadeo.',
+      tipo: 'Libro',
+      link:
+        'http://www.digitaliapublishing.com.bdigital.sena.edu.co/visor/30027',
+    },
+    {
+      texto: 'Fernández, R. (2009) Segmentación de mercados.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=687&pg=1 ',
+    },
+    {
+      texto: 'Fisher, L.; Espejo, J. (2017) Mercadotecnia.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4612&pg=1',
+    },
+    {
+      texto: 'Hernández E. (2018) Manual del comercio electrónico.',
+      tipo: 'Libro',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/45158?page=1 ',
+    },
+    {
+      texto: 'Hoyer, W; Mclnnis, D. (2018) Comportamiento del consumidor.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7493&pg=1 ',
+    },
+    {
+      texto: 'Irureta, S. (2015) Comercio electrónico.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5357&pg=1 ',
+    },
+    {
+      texto: 'Kerin, R; Harley, S. (2018). Marketing.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=6261&pg=1 ',
+    },
+    {
+      texto: 'Kotler, P. (2016) Dirección de marketing.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4273&pg=1 ',
+    },
+    {
+      texto: 'Kotler, P; Amstrong, G. (2017). Marketing.    ',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4426&pg=1 ',
+    },
+    {
+      texto: 'Lambin, J.J (2009) Dirección de marketing.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=515&pg=1 ',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Prettel, G. (2016) Marketing, una herramienta para el crecimiento.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5684&pg=1 ',
     },
     {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+      texto: 'Prieto, J. E. (2009). Investigación de mercados.',
+      tipo: 'Libro',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/69104?page=1 ',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      texto: 'Rivas, J; Grande, I. (2017) Comportamiento del consumidor.',
+      tipo: 'Libro',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/119581?page=1 ',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Roldan, S. (2016) Community management 2.0.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=3161&pg=1 ',
+    },
+    {
+      texto: 'Schiffman, L. (2015) Comportamiento del consumidor.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=3468&pg=1 ',
+    },
+    {
+      texto: 'Somalo, I. (2018) El comercio electrónico.',
+      tipo: 'Libro',
+      link:
+        'https://www-alfaomegacloud-com.bdigital.sena.edu.co/auth/ip?intended_url=https://www-alfaomegacloud-com.bdigital.sena.edu.co/reader/el-comercio-electronico?location=1 ',
+    },
+    {
+      texto: 'Soria, M. (2017) Plan de marketing empresarial.',
+      tipo: 'Libro',
+      link:
+        'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/reader.action?docID=5214046&ppg=1 ',
+    },
+    {
+      texto: 'Vélez, T. (2014) Logística empresarial.',
+      tipo: 'Libro',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5569&pg=1',
     },
   ],
 }

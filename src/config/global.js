@@ -13,114 +13,30 @@ export default {
         icono: 'fas fa-home',
         titulo: 'Volver al inicio',
       },
-      {
-        nombreRuta: 'introduccion',
-        icono: 'fas fa-info',
-        titulo: 'Introducción',
-        desarrolloContenidos: true,
-      },
+      // {
+      //   nombreRuta: 'introduccion',
+      //   icono: 'fas fa-info',
+      //   titulo: 'Introducción',
+      //   desarrolloContenidos: false,
+      // },
       {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Segmentación de mercados',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Estilos tipográficos',
+            titulo: 'Segmento',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Párrafos',
+            titulo: 'Mercado',
             hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Bloques de texto destacado',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 't_1_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 't_1_6',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Video',
-            hash: 't_1_7',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Componentes',
-            hash: 't_1_8',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Slyders',
-            hash: 't_1_9',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Acordion',
-            hash: 't_1_10',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Pestañas o Tabs',
-            hash: 't_1_11',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Líneas de tiempo',
-            hash: 't_1_12',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Pasos',
-            hash: 't_1_13',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Llamados a la acción',
-            hash: 't_1_14',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Tarjetas',
-            hash: 't_1_15',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Modal',
-            hash: 't_1_16',
           },
         ],
       },
@@ -128,44 +44,32 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Segmentación de mercados',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Infografía Animada',
+            titulo: 'Plan de marketing digital',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Video Motion',
+            titulo: 'Estrategia digital',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Motion + Presentador',
+            titulo: 'Social Media Marketing',
             hash: 't_2_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.4',
-            titulo: 'Animación 2D',
+            titulo: 'E- business',
             hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Video interactivo',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Infografías',
-            hash: 't_2_6',
           },
         ],
       },
@@ -173,56 +77,43 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Distribución comercial',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
+            titulo: 'Canales de distribución',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Identificación fibras por combustión',
+            titulo: 'Intermediario',
             hash: 't_3_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: 'Clasificación de los hilos',
+            titulo: 'Acuerdos comerciales',
             hash: 't_3_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.4',
-            titulo: 'Clasificación de tejidos',
+            titulo: 'Formatos comerciales',
             hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Caracterización de los tejidos',
-            hash: 't_3_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.6',
-            titulo: 'Procesos textiles',
-            hash: 't_3_6',
           },
         ],
       },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      // {
+      //   nombreRuta: 'actividad',
+      //   icono: 'far fa-question-circle',
+      //   titulo: 'Actividad didáctica',
+      //   desarrolloContenidos: false,
+      // },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -343,94 +234,179 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Begoña. Trespalacios, Juan (2006). Estrategias de Distribución Comercial. Ediciones Paraninfo.',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Carballar, J.A. (2018) Social Media. Marketing personal y profesional. México. Alfaomega.',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Céspedes, A. (2008) Principios de mercadeo. Ed. 5. Bogotá. Ecoe Ediciones.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Chaffey, D. (2014) Marketing digital. Estrategia, implementación y práctica. Ed. 5. México. Pearson.',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Fernández, R. (2009) Segmentación de mercados. Ed. 3. México. McGraw-Hill.',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'Ferré, J. (2003). Estrategias de Distribución. Fundamentos de Marketing. México: Editorial Océano.',
     },
     {
       referencia:
-        'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Fisher, L.; Espejo, J. (2017) Mercadotecnia. Ed. 5. México. McGraw-Hill.',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Hernández E. (2018) Manual del comercio electrónico. Barcelona. Marge Books.',
+    },
+    {
+      referencia:
+        'Hoyer, W; Mclnnis, D. (2018) Comportamiento del consumidor. Ed. 7. México. Cengage.',
+    },
+    {
+      referencia:
+        'Gallo, M.A (2016) Introducción a la logística, Tulua. Uceva.',
+    },
+    {
+      referencia:
+        'Gutiérrez, A. (2013). Gestión de stocks en la logística de almacenes. Bogotá. Ediciones de la U.',
+    },
+    {
+      referencia:
+        'Irureta, S. (2015) Comercio electrónico. Madrid. McGraw-Hill.',
+    },
+    {
+      referencia:
+        'Kerin, R; Harley, S. (2018). Marketing. Ed.13 México. McGraw Hill.',
+    },
+    {
+      referencia:
+        'Kloter, P; Keller, K. (2016). Dirección de marketing. Ed. 15. México. Pearson.',
+    },
+    {
+      referencia:
+        'Kotler, P; Amstrong, G. (2017). Marketing. Ed.16. México. Pearson.',
+    },
+    {
+      referencia:
+        'Lambin, J.J (2009) Dirección de marketing. Gestión estratégica y operativa de mercado. Ed. 2. México. McGraw-Hill.',
+    },
+    {
+      referencia:
+        'Prettel, G. (2016). Marketing, una herramienta para el crecimiento. Bogotá. Ediciones de la U.',
+    },
+    {
+      referencia:
+        'Prieto, J. E. (2009). Investigación de mercados. Bogotá: Ecoe Ediciones.',
+    },
+    {
+      referencia:
+        'Rivas, J; Grande, I. (2017) Comportamiento del consumidor. Decisiones y estrategias de marketing. Ed. 8. Editorial ESIC.',
+    },
+    {
+      referencia:
+        'Roldan, S. (2016) Community management 2.0. Gestión de comunidades virtuales. Bogotá. Ecoe Ediciones.',
+    },
+    {
+      referencia:
+        'Schiffman, L. (2015) Comportamiento del consumidor. Ed. 11. México. Pearson.',
+    },
+    {
+      referencia:
+        'Somalo, I. (2018) El comercio electrónico. Bogotá. Alfaomega.',
+    },
+    {
+      referencia:
+        'Soria, M. (2017) Plan de marketing empresarial. Madrid. Editorial ECP.',
+    },
+    {
+      referencia:
+        'Vélez, T. (2014) Logística empresarial, gestión eficiente del flujo de suministros. Bogotá. Ediciones de la U.',
+    },
+    {
+      referencia:
+        'West, A. (2007). Gestión de la distribución comercial. Madrid: Díaz de Santos Casielles, Rodolfo. Álvarez.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'CANAL DE DISTRIBUCIÓN',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Ruta que toma el producto o servicio para llegar desde el productor hasta el usuario final. El canal de distribución incluye las ventas directas, distribuidores mayoristas, vendedores independientes, correo directo y el comercio a detalle.',
     },
     {
-      termino: 'Suftware',
+      termino: 'COMUNICACIÓN EN LA DISTRIBUCIÓN',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'La estrategia en la comunicación en la distribución es un elemento estratégico de cooperación de los intermediarios hacia los clientes, que fortalece los canales de marketing.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'COMPORTAMIENTO DEL CONSUMIDOR',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Forma que un individuo llega a las decisiones relativas a la selección, compra y uso de bienes y servicios.',
     },
     {
-      termino: 'Vectores',
+      termino: 'DISTRIBUCIÓN FÍSICA O LOGÍSTICA INTEGRAL',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'La logística es el proceso de planear, implementar y controlar procedimientos para transportar y almacenar bienes y servicios de manera eficiente y efectiva, además de',
     },
     {
-      termino: 'Moda',
+      termino: 'ESTRATEGIAS DE DISTRIBUCIÓN',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Las estrategias de distribución deben tener en cuenta las estrategias corporativas y las de mercadeo. En cuanto a estas últimas, es preciso acotar que pueden determinarse estrategias de distribución con respecto a las diferentes variables que componen la mezcla de mercadeo.',
     },
     {
-      termino: 'Diseño',
+      termino: 'ESTRATEGIAS DE SEGMENTACIÓN',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Las empresas son conscientes que los compradores no son todos iguales y tienen necesidades distintas, por lo que pueden llevar a cabo diferentes estrategias de segmentación: Estrategia indiferenciada, estrategia de diferenciación y estrategia concentrada o de concentración.',
     },
     {
-      termino: 'Tipología',
+      termino: 'FORMATOS COMERCIALES',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Son aquellos lugares en donde se colocar un producto a disposición del cliente de tal manera que este logre conseguirlos a un buen precio. Los formatos comerciales por lo general suelen diferenciarse por su tamaño y por la diferencia de productos existente.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'HÁBITO DE COMPRA',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Modo acostumbrado de comportarse del comprador con respecto a los lugares de compra, desplazamientos, tipos de establecimientos visitados, frecuencia de compra, momento de la compra y clases de productos adquiridos, así como los criterios de elección que regularmente utiliza y las actitudes y opiniones que suele tener sobre los establecimientos comerciales.',
     },
     {
-      termino: 'Software',
+      termino: 'LOGÍSTICA',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        '«Conjunto de medios y métodos necesarios para llevar a cabo la organización de una empresa, o de un servicio, especialmente de distribución». Es fundamental para el comercio. Las actividades logísticas conforman un sistema que es el enlace entre la producción y los mercados que están separados por el tiempo y la distancia.',
+    },
+    {
+      termino: 'LOGÍSTICA INVERSA',
+      significado:
+        'Gestiona el retorno de las mercancías en la cadena de suministro, de la forma más efectiva y económica posible, se encarga de la recuperación y reciclaje de envases, embalajes y residuos peligrosos; así como de los procesos de retorno de excesos de inventario, devoluciones de clientes, productos entre otros.',
+    },
+    {
+      termino: 'MARKETING DIGITAL',
+      significado:
+        'Está caracterizado por la combinación y utilización de estrategias de comercialización en medios digitales.',
+    },
+    {
+      termino: 'MERCADO',
+      significado:
+        'Grupo identificable de consumidores con cierto poder adquisitivo, que están dispuestos y disponibles para pagar por un producto o un servicio. La totalidad de los compradores potenciales y actuales de algún producto o servicio.',
+    },
+    {
+      termino: 'MERCADO OBJETIVO',
+      significado:
+        'Segmento de ese mercado seleccionado por la empresa para ofrecer sus productos o servicios y a los cuales la empresa espera cumplir sus necesidades y sobre el cual se desarrollan todas las estrategias de comercialización, penetración y posicionamiento.',
+    },
+    {
+      termino: 'NICHO DE MERCADO',
+      significado: 'Es un segmento de mercado relativamente pequeño.',
+    },
+    {
+      termino: 'SEGMENTACIÓN DE MERCADO',
+      significado:
+        'Es la división de los mercados para formar grupos distintos, con base en características similares.',
     },
   ],
   complementario: [

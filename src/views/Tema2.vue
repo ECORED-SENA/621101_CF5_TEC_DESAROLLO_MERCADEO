@@ -334,7 +334,7 @@
           br
           br
           |Se puede afirmar que esta red social es líder del videomarketing. Funciona como un gran catálogo o librería de vídeos, que permite compartir todo tipo de vídeos de una marca y difundir su enlace en otras redes sociales [incluso hay un formato especial para Facebook]. Hay que decir que, a pesar de su notoriedad por alojar gran parte de los vídeos en internet. (Hernández,2018)
-    #t_2_3.titulo-segundo
+    #t_2_4.titulo-segundo
       .h4 2.4. E- business
     figure.mb-5 
       img(src='@/assets/curso/img111.jpg', alt='Texto que describa la imagen' )

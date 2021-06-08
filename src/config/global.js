@@ -44,7 +44,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Segmentación de mercados',
+        titulo: 'Marketing digital',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -141,11 +141,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      // {
+      //   icono: 'fas fa-download',
+      //   titulo: 'Descargar material',
+      //   download: 'downloads/material.zip',
+      // },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -160,46 +160,52 @@ export default {
     },
     contenidoInstruccional: [
       {
-        nombre: 'Gloria Matilde Lee Mejia',
-        cargo: 'Responsable Equipo',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
-      },
-      {
         nombre: 'Rafael Nelftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
-        centro: 'Centro Industrial Del Diseño Y La Manufactura',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Claudia Juliana León Pinto',
-        cargo: 'Experta tematica ',
-        centro: 'Centro de Gestión Industrial',
+        nombre: 'Uriel Darío González Montoya',
+        cargo: 'Acompañamiento pedagógico',
+        centro: 'Centro Agropecuario La Granja',
+        regional: 'Regional Tolima',
+      },
+      {
+        nombre: 'Claudia Juliana León Pint',
+        cargo: 'Experta temática ',
+        centro: 'Centro de Servicios Empresariales y Turísticos',
         regional: 'Regional Santander',
       },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Diseñadora Instruccional ',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Gestión Industrial',
         regional: 'Regional Distrito Capital',
       },
       {
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro Agropecuario La Granja',
+        regional: 'Regional Tolima',
+      },
+      {
         nombre: 'Jesús Libardo Acero',
         cargo: 'Evaluador instruccional',
-        centro: 'Centro de Diseño y metrología',
+        centro: 'Centro de Diseño y Metrología',
         regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'Julieth Paola Vital López',
-        cargo: 'Revisora de estilo ',
+        cargo: 'Revisora de estilo',
         centro: 'Centro para la Industria y la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Corrector de estilo',
-        centro: 'Centro para la Industria y la Comunicación Gráfica.',
-        regional: 'Regional Distrito Capital.',
+        centro: 'Centro para la Industria y la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -212,7 +218,10 @@ export default {
         cargo: 'Soporte organizacional',
       },
       {
-        nombre: ['Juan Daniel Polanco Muñoz'],
+        nombre: [
+          'Jorge Armando Villamizar Moreno',
+          'Juan Daniel Polanco Muñoz',
+        ],
         cargo: 'Diseño web',
       },
       {
@@ -226,7 +235,7 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
+        nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: ['Desarrollo front-end', 'Validación de recursos'],
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
@@ -256,11 +265,11 @@ export default {
     },
     {
       referencia:
-        'Ferré, J. (2003). Estrategias de Distribución. Fundamentos de Marketing. México: Editorial Océano.',
+        'Ferré, J. (2003). Estrategias de Distribución. Fundamentos de Marketing. México. Editorial Océano.',
     },
     {
       referencia:
-        'Fisher, L.; Espejo, J. (2017) Mercadotecnia. Ed. 5. México. McGraw-Hill.',
+        'Fisher, L. Espejo, J. (2017) Mercadotecnia. Ed. 5. México. McGraw-Hill.',
     },
     {
       referencia:
@@ -268,7 +277,7 @@ export default {
     },
     {
       referencia:
-        'Hoyer, W; Mclnnis, D. (2018) Comportamiento del consumidor. Ed. 7. México. Cengage.',
+        'Hoyer, W. Mclnnis, D. (2018) Comportamiento del consumidor. Ed. 7. México. Cengage.',
     },
     {
       referencia:
@@ -284,15 +293,15 @@ export default {
     },
     {
       referencia:
-        'Kerin, R; Harley, S. (2018). Marketing. Ed.13 México. McGraw Hill.',
+        'Kerin, R. Harley, S. (2018). Marketing. Ed.13 México. McGraw Hill.',
     },
     {
       referencia:
-        'Kloter, P; Keller, K. (2016). Dirección de marketing. Ed. 15. México. Pearson.',
+        'Kloter, P. Keller, K. (2016). Dirección de marketing. Ed. 15. México. Pearson.',
     },
     {
       referencia:
-        'Kotler, P; Amstrong, G. (2017). Marketing. Ed.16. México. Pearson.',
+        'Kotler, P. Amstrong, G. (2017). Marketing. Ed.16. México. Pearson.',
     },
     {
       referencia:
@@ -308,7 +317,7 @@ export default {
     },
     {
       referencia:
-        'Rivas, J; Grande, I. (2017) Comportamiento del consumidor. Decisiones y estrategias de marketing. Ed. 8. Editorial ESIC.',
+        'Rivas, J. Grande, I. (2017) Comportamiento del consumidor. Decisiones y estrategias de marketing. Ed. 8. Editorial ESIC.',
     },
     {
       referencia:
@@ -354,7 +363,7 @@ export default {
     {
       termino: 'DISTRIBUCIÓN FÍSICA O LOGÍSTICA INTEGRAL',
       significado:
-        'La logística es el proceso de planear, implementar y controlar procedimientos para transportar y almacenar bienes y servicios de manera eficiente y efectiva, además de',
+        'La logística es el proceso de planear, implementar y controlar procedimientos para transportar y almacenar bienes y servicios de manera eficiente y efectiva, además de información relacionada desde el punto de origen hasta el punto de consumo, con el propósito de cumplir con los requerimientos del consumidor. ',
     },
     {
       termino: 'ESTRATEGIAS DE DISTRIBUCIÓN',
@@ -369,7 +378,7 @@ export default {
     {
       termino: 'FORMATOS COMERCIALES',
       significado:
-        'Son aquellos lugares en donde se colocar un producto a disposición del cliente de tal manera que este logre conseguirlos a un buen precio. Los formatos comerciales por lo general suelen diferenciarse por su tamaño y por la diferencia de productos existente.',
+        'Son aquellos lugares en donde se coloca un producto a disposición del cliente de tal manera que este logre conseguirlos a un buen precio. Los formatos comerciales por lo general suelen diferenciarse por su tamaño y por la diferencia de productos existentes.',
     },
     {
       termino: 'HÁBITO DE COMPRA',
@@ -384,7 +393,7 @@ export default {
     {
       termino: 'LOGÍSTICA INVERSA',
       significado:
-        'Gestiona el retorno de las mercancías en la cadena de suministro, de la forma más efectiva y económica posible, se encarga de la recuperación y reciclaje de envases, embalajes y residuos peligrosos; así como de los procesos de retorno de excesos de inventario, devoluciones de clientes, productos entre otros.',
+        'Gestiona el retorno de las mercancías en la cadena de suministro, de la forma más efectiva y económica posible, se encarga de la recuperación y reciclaje de envases, embalajes y residuos peligrosos; así como de los procesos de retorno de excesos de inventario, devoluciones de clientes, productos, entre otros.',
     },
     {
       termino: 'MARKETING DIGITAL',
@@ -409,6 +418,26 @@ export default {
       termino: 'SEGMENTACIÓN DE MERCADO',
       significado:
         'Es la división de los mercados para formar grupos distintos, con base en características similares.',
+    },
+    {
+      termino: 'SEGMENTACIÓN CONDUCTUAL',
+      significado:
+        'Divide a los compradores en grupos, con base a sus conocimientos sobre un producto, su actitud ante al mismo, el uso que le dan o la forma en que responden a un producto.',
+    },
+    {
+      termino: 'SEGMENTACIÓN DEMOGRÁFICA',
+      significado:
+        'Es la división de grupos de consumidores en segmentos basada en características demográficas, como, edad, ingreso, género y ocupación.',
+    },
+    {
+      termino: 'SEGMENTACIÓN PSICOGRÁFICA',
+      significado:
+        'Es la segmentación de los clientes por clase social, estilo de vida, características psicológicas, como las actitudes, los intereses, opiniones y valores.',
+    },
+    {
+      termino: 'SEGMENTACIÓN GEOGRÁFICA',
+      significado:
+        'Es la división de grupos de consumidores en segmentos analizando el lugar donde éstos habitan.',
     },
   ],
   complementario: [

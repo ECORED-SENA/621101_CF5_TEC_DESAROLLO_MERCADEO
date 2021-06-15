@@ -166,13 +166,7 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Uriel Darío González Montoya',
-        cargo: 'Acompañamiento pedagógico',
-        centro: 'Centro Agropecuario La Granja',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Claudia Juliana León Pint',
+        nombre: 'Claudia Juliana León Pinto',
         cargo: 'Experta temática ',
         centro: 'Centro de Servicios Empresariales y Turísticos',
         regional: 'Regional Santander',
@@ -181,30 +175,6 @@ export default {
         nombre: 'Alix Cecilia Chinchilla Rueda',
         cargo: 'Diseñadora instruccional',
         centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Fabián Leonardo Correa Díaz',
-        cargo: 'Diseñador Instruccional',
-        centro: 'Centro Agropecuario La Granja',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Jesús Libardo Acero',
-        cargo: 'Evaluador instruccional',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Revisora de estilo',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'José Gabriel Ortiz Abella',
-        cargo: 'Corrector de estilo',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
     ],
@@ -225,8 +195,26 @@ export default {
         cargo: 'Diseño web',
       },
       {
+        nombre: [
+          'Carmen Alicia Martínez Torres',
+          'Daniela Muñoz Bedoya',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'José Jaime Luis Tang Pinzón',
+          'Lina Marcela Pérez Manchego',
+          'María Carolina Tamayo López',
+          'Vícor Raúl Cárdenas Cáceres',
+          'Wilson Andrés Arenales Cáceres',
+          'Zuleidy Maria Ruiz Torres',
+        ],
+        cargo: 'Producción audiovisual',
+      },
+      {
         nombre: 'Camilo Andres Bolaño Rey',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Validación de diseño y contenido',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -236,8 +224,8 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
+        cargo: ['Validación y vinculación en plataforma LMS '],
+        centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
     ],

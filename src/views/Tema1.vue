@@ -173,7 +173,7 @@
       br
       br
       |En el siguiente cuadro comparativo Vélez (2014) compara las variables de segmentación.
-    .tabla-a.color-primario.mb-5 
+    .tabla-a.color-acento-secundario.table-naranja.mb-5 
       table
         caption Fuente: Velez, 2014.
         thead
@@ -203,6 +203,8 @@
             td Bajo enfoques y metodologías de sistematización, a través de la identificación de categorías.
             td Rituales de consumo, rituales de transición, estatus.
             td Ocasiones de compra, beneficios esperados, tasa de usos y estatus del consumidor.
+    br
+    br
     .h5 Segmentación geográfica
     .row 
       .col-lg-6 
@@ -236,7 +238,7 @@
           .col-xl-8
             p.pe-5.py-5 
               b Región: 
-              b-none «porción de territorio» con ciertas características comunes como el clima, la topografía, etnia o la administración. También puede referirse a las «características geográficas, históricas, culturales y sociales»  de una nación. Ejemplo. En Colombia la región andina.
+              b-none «porción de territorio» con ciertas características comunes como el clima, la topografía, etnia o la administración. También puede referirse a las «características geográficas, históricas, culturales y sociales»  de una nación. Ejemplo: en Colombia la región andina.
       .tarjeta.color-secundario--borde.color-azul.p-4(titulo="Departamento")
         .row
           .col-xl-4
@@ -273,6 +275,8 @@
           p
             b Tipo de población: 
             b-none se refiere a las condiciones de densidad de población de las comunidades donde pretendemos comercializar nuestros productos. Ej. Megalópolis, urbana, suburbana y rural.
+    br
+    br
     .h5.mt-5 Segmentación demográfica 
     .row 
       .col-lg-6 
@@ -283,7 +287,7 @@
         p.p-4 Una de las razones por las que las variables demográficas, como edad, tamaño de la familia, ciclo de vida de la familia, género, ingresos, ocupación, escolaridad, religión, raza, generación, nacionalidad y clase social son tan populares entre los especialistas en marketing es que muchas veces están asociadas con necesidades y deseos de los consumidores, otra es que son fáciles de medir. (Kotler, 2016).
           br
           br
-          |Las variables demográﬁcas tienen la característica particular de ser las únicas que se pueden medir en forma estadística. Cada país realiza actividades de levantamiento de información con una periodicidad determinada (censos), a partir de las cuales es posible tener datos estadísticos contables (Fernández, 2009). Ejemplo, en Colombia se encuentra el DANE (Departamento Administrativo Nacional de Estadística), entidad responsable de la planeación, levantamiento, procesamiento, análisis y difusión de las estadísticas oficiales de Colombia.
+          |Las variables demográﬁcas tienen la característica particular de ser las únicas que se pueden medir en forma estadística. Cada país realiza actividades de levantamiento de información con una periodicidad determinada (censos), a partir de las cuales es posible tener datos estadísticos contables. (Fernández, 2009). Ejemplo, en Colombia se encuentra el DANE (Departamento Administrativo Nacional de Estadística), entidad responsable de la planeación, levantamiento, procesamiento, análisis y difusión de las estadísticas oficiales de Colombia.
         .row.ms-3    
           .col-6
             figure.mb-5
@@ -382,6 +386,8 @@
                 li 
                   i.lista-ul__vineta
                   | Promedio de habitaciones por vivienda.
+    br
+    br
     .h5 Segmentación psicográfica
     .row.mb-5
       .col-lg-6 
@@ -440,7 +446,8 @@
             p.pe-5
               b Ciclo de vida familiar: 
               b-none   a partir del concepto de familia como el conjunto de personas que cohabitan bajo un mismo techo, surge el concepto de ciclo de vida familiar, que se refiere a las características de las personas que viven en el hogar en diferentes etapas de la vida familiar. Estas etapas son: joven soltero, matrimonio sin hijos, matrimonio con hijos, padres solteros, solteros, solteros mayores. (Fernández, 2009).
-
+    br
+    br
     .h5 Segmentación conductual
     .row.mb-5
       .col-lg-6 
@@ -452,6 +459,8 @@
           br
           br
           |Se refiere a la disposición que tiene el consumidor ante la posible compra de un producto; es decir, dentro del segmento de mercado. Estas variables se clasifican en:
+    br
+    br
     .h5 Frecuencia de uso
     .row
       .col-lg-6
@@ -544,6 +553,8 @@
             td.td-linea-gruesa 
               b Lealtad a la marca
             td Usuario leal, usuario eventual.
+    br
+    br
     .h5 Micro segmentación
     figure.mb-5
       img(src='@/assets/curso/img43.jpg', alt='Texto que describa la imagen' )
@@ -570,6 +581,8 @@
           p 
             b Segmentación comportamental
             b-none , que clasifica a los clientes por su comportamiento actual de compra en el mercado. Los criterios que más comúnmente se utilizan son los del uso del producto, el volumen comprado y el estatus de lealtad.
+    br
+    br
     .h5  Macro segmentación
     figure.mb-5
       img(src='@/assets/curso/img44.jpg', alt='Texto que describa la imagen' )
@@ -585,6 +598,8 @@
         figure.mb-5
           img(src='@/assets/curso/img45.svg', alt='Texto que describa la imagen' )
           figcaption Fuente: (Lambin, 2009).
+    br
+    br
     .h5 Estrategias de segmentación
     figure.mb-5
       img(src='@/assets/curso/img46.jpg', alt='Texto que describa la imagen' )
@@ -631,6 +646,8 @@
             figure
               img(src='@/assets/curso/img51.jpg', alt='Texto que describa la imagen' style='width: 340px').m-auto
               figcaption Fuente: https://shop.realmadrid.com/ 
+    br
+    br
     #t_1_2.titulo-segundo
       .h4 1.2 Mercado
     p.mb-5 Un mercado se puede definir como la suma de compradores reales y potenciales con necesidades y deseos diferentes que se deben satisfacer. Para que los mercados se puedan definir como demandantes, aparte de la necesidad del bien o servicio, deben tener capacidad económica para comprar. (Prettel, 2016).
@@ -693,6 +710,7 @@
               b Mercado total: 
               b-none el mercado total está compuesto por el universo de personas que tienen una necesidad que debe satisfacer un producto o servicio. (Prieto, 2009).
     br
+    br
     .h5.mt-3 Mercado potencial y target
     p.mb-5 A continuación, podrá abordar los conceptos de mercado potencial (tocado en el punto anterior) y el target.
     .h5 Mercado potencial
@@ -706,6 +724,8 @@
           br
           br
           |Después de que la organización ha definido sus segmentos de mercado puede entrar en uno o varios de ellos. La selección de mercado meta implica evaluar el atractivo de cada segmento y elegir uno o más segmentos a los cuales atender. La empresa debería elegir los segmentos en los que pueda generar el mayor valor del cliente y mantenerlo en el tiempo de manera rentable. (Amstrong, 2017).
+    br
+    br
     .h5 Target o mercado meta
     .row.mb-5
       .col-lg-6 
@@ -718,6 +738,8 @@
       br
       br
       |Entender el consumidor ayuda a las organizaciones a determinar cuáles grupos de consumidores son blancos adecuados para dirigir sus tácticas de marketing y en qué se distinguen los usuarios frecuentes de los usuarios no frecuentes de un producto para determinar su mercado meta o target. También deben identificar quién tiende a participar en decisiones de adquisición, uso y desecho. (Hoyer, 2018).
+    br 
+    br 
     .h5 Nicho
     p.mb-5 Fisher (2017), define 
       b nicho de mercado 
@@ -757,6 +779,8 @@
           p 
             b La fidelización de clientes 
             b-none es mucho más barata que la captación de nuevos clientes por otros medios. Es importante priorizar a sus clientes.
+    br
+    br
     .h5 Comportamiento
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
@@ -775,7 +799,9 @@
     p.mb-5 El comportamiento del consumidor no refleja necesariamente la acción de una sola persona. Un grupo de amigos, algunos compañeros de trabajo o toda una familia pueden planear una fiesta de cumpleaños o decidir dónde acudir a almorzar, intercambiando ideas en persona, por teléfono, a través de redes sociales, por correo electrónico o mensajes de texto. Además, las personas que participan en un comportamiento de consumo pueden desempeñar una o más funciones. Por ejemplo, en el caso de la compra de un automóvil, uno o más miembros de la familia pueden desempeñar la función de recabar información investigando diferentes modelos. Otros pueden desempeñar la de influir e intentar afectar el resultado de una decisión. Uno o más miembros desempeñan la función del comprador al pagar el automóvil, y algunos otros, o todos, pueden ser sus usuarios. Por último, varios miembros de la familia pueden participar en desechar el automóvil. (Hoyer,  2018).
       br
       br
-      |Para Philip Kotler (2016) el comportamiento de compra del consumidor se ve influido por factores culturales, sociales y personales. De éstos, los factores culturales ejercen la influencia más amplia y profunda. 
+      |Para Philip Kotler (2016) el comportamiento de compra del consumidor se ve influido por factores culturales, sociales y personales. De éstos, los factores culturales ejercen la influencia más amplia y profunda.
+    br
+    br
     .h5 Factores culturales
     .row.mb-5
       .col-lg-6 
@@ -825,6 +851,8 @@
             br
             br
             |Los grupos de referencia se dividen en grupos de pertenencia primarios que son las personas que interactúan continuamente y de manera informal, como la familia, amigos, vecinos y compañeros de trabajo y grupos de permanencia secundarios que son grupos religiosos, profesionales y sindicales que tienden a ser más formales y requieren de una interacción menos continua. Los grupos de referencia influyen en sus miembros al menos de tres maneras: exponen al individuo a nuevas conductas y estilos de vida; influyen en las actitudes y el auto concepto y crean presiones de conformidad que pueden afectar las elecciones de productos y marcas. La gente recibe también la influencia de grupos a los que no pertenece. Los grupos de aspiración son aquellos a los que a la persona le gustaría pertenecer; los grupos disociativos son grupos cuyos valores o comportamiento son rechazados por el individuo. Cuando la influencia del grupo de referencia es fuerte, los especialistas en marketing deben determinar cómo llegar a los líderes de opinión del grupo y de qué manera influir en ellos. (Kotler, 2016).
+    br
+    br
     .h5 Factores personales
     .row.mb-5
       .col-lg-6 
@@ -983,6 +1011,8 @@
             img(src='@/assets/curso/img77.jpg', alt='Texto que describa la imagen' style='width:450px' ).m-auto
       .col-lg-6 
           p La disonancia cognitiva posventa, es un fenómeno que cualquier consumidor experimenta, y consiste en la insatisfacción mental que se genera entre gastar dinero en un producto y la posible utilidad del mismo. Por ejemplo, una persona que invierte sus ahorros en la compra de un automóvil, una vez cerrada la operación puede generar un sentimiento de insatisfacción por la compra, al dudar si el automóvil era o no el idóneo. Para evitar que esto suceda, es necesario dar al consumidor elementos para que sienta satisfacción por su compra, tales como: servicio, garantías, beneficios adicionales, etcétera. La disonancia es un fenómeno común, lo importante es que el consumidor tenga esta sensación la menor cantidad de tiempo posible, para ello es indispensable reconocer en el mismo las variables que determinan su personalidad, su cultura, su estatus social, etc.; es decir, su comportamiento. (Fernández, 2009).
+    br
+    br
     .h5 Conductas
     .row.mb-5
       .col-lg-6 
@@ -1001,10 +1031,12 @@
           p 
             b Unidades de consumo: 
             b-none los individuos y grupos de consumo (familia, organizaciones, instituciones públicas o privadas, el gobierno, etc.).
-    .cajon.color-secundario.p-4.mb-4
+    .cajon.color-secundario.p-4.mb-5
           p 
             b Fases de conducta:
             b-none  actividades, procesos y roles en la conducta de compra.
+    br
+    br
     .h5.mb-5 Jerarquía de necesidades de Maslow
     .row.mb-5
       .col-lg-6 
@@ -1036,6 +1068,7 @@
       div(titulo="Autorrealización").p-3
         p Se refieren al deseo del individuo por explotar todo su potencial, es decir, por convertirse en todo lo que es capaz de llegar a ser. Por ejemplo, un artista plástico tendría necesidad de expresarse a través de un lienzo. (Schiffman, 2015). Es el último escalón de la pirámide, según Maslow, un estrato difícil de alcanzar. El consumidor nunca se sentirá satisfecho y en este punto se vuelve sensible ante cualquier reclamo publicitario. (Soria, 2017).
     br
+    br
     .h5 Hábitos de compra
     .row.mb-5
       .col-lg-5 
@@ -1043,9 +1076,10 @@
             img(src='@/assets/curso/img81.jpg', alt='Texto que describa la imagen' style='width:500px' ).m-auto
       .col-lg-7 
           p El hábito, el impulso constante y casi universal del hombre a repetir el mismo acto, es uno de los factores más vitales del mercado. Las compras pueden ser impulsivas, razonadas o habituales, pero en la mayoría de los casos pertenecen a esta última categoría. Los hábitos de compra profundamente arraigados son difíciles de modificar o cambiar. En todo estudio de mercado hay que descubrir lo usual y acostumbrado. Ej. En ciudades frías son preferidas las camisetas con cuello y mangas largas; en la costa, sin cuello y sin mangas. Pero los hábitos en las compras no conciernen únicamente al tipo de producto que se acostumbra comprar. Afectan también a la cantidad o unidad de producto comprado, cuándo se efectúa la compra, y dónde se hará. Se dice a menudo que, si un artículo contribuye a mejorar la apariencia personal, la comodidad o la salud de la persona que lo compra, su apego por él es mucho mayor que por algún otro artículo de más utilidad poseído. Es difícil convencer a un hombre para que deje de usar una marca o una forma de camisa que le satisface. Es mucho más fácil convencerle para que use una nueva marca de loción. Indudablemente, cada detalle de los hábitos en la compra que afectan el artículo o sus usos es importante cuando se estudia el mercado. (Céspedes, 2008).
-    p.mb-5 Una meta importante del marketing es modificar los hábitos de los consumidores e inducirlos a cambiar a la marca de la empresa. Como el consumidor habitual no tiene fuerte preferencia por una marca, esta meta es más fácil de alcanzar que cuando se trata de consumidores leales a la marca. Para inducir el cambio de marca, las empresas emplean técnicas de promoción de ventas, como demostraciones (en línea o en persona), rebajas, cupones, muestras gratuitas y obsequios, y todas tienen la finalidad de capturar la atención de los consumidores y hacerlos probar la nueva marca. Una vez que se ha roto con un viejo hábito, los consumidores pueden continuar comprando la marca nueva, ya sea debido a que les gusta o porque han desarrollado un hábito nuevo. Las empresas también pueden romper hábitos cuando introducen un beneficio nuevo y único que satisface las necesidades de los consumidores, mejor que las marcas existentes. Después, esta ventaja diferenciadora requiere una gran cantidad de publicidad para difundir su noticia entre los consumidores. Las empresas no desean que sus clientes de compras reiteradas rompan sus hábitos de consumo. Como los consumidores habituales son susceptibles a las promociones de los competidores, las empresas deben ofrecer promociones comparables para retener a sus clientes. (Hoyer, 2018).
+    p.mb-2 Una meta importante del marketing es modificar los hábitos de los consumidores e inducirlos a cambiar a la marca de la empresa. Como el consumidor habitual no tiene fuerte preferencia por una marca, esta meta es más fácil de alcanzar que cuando se trata de consumidores leales a la marca. Para inducir el cambio de marca, las empresas emplean técnicas de promoción de ventas, como demostraciones (en línea o en persona), rebajas, cupones, muestras gratuitas y obsequios, y todas tienen la finalidad de capturar la atención de los consumidores y hacerlos probar la nueva marca. Una vez que se ha roto con un viejo hábito, los consumidores pueden continuar comprando la marca nueva, ya sea debido a que les gusta o porque han desarrollado un hábito nuevo. Las empresas también pueden romper hábitos cuando introducen un beneficio nuevo y único que satisface las necesidades de los consumidores, mejor que las marcas existentes. Después, esta ventaja diferenciadora requiere una gran cantidad de publicidad para difundir su noticia entre los consumidores. Las empresas no desean que sus clientes de compras reiteradas rompan sus hábitos de consumo. Como los consumidores habituales son susceptibles a las promociones de los competidores, las empresas deben ofrecer promociones comparables para retener a sus clientes. (Hoyer, 2018).
     figure.mb-5
       img(src='@/assets/curso/img82.svg', alt='Texto que describa la imagen' )
+    br  
     .h5 Stakeholders (Grupo Interés)
     p.mb-5 Para Prettel (2016) los grupos de interés o definidos también como stakeholders o públicos, tienen de alguna manera influencia en una organización. Entre los grupos de interés se pueden identificar:
     .tarjetas-ordenadas.m-auto.mb-5

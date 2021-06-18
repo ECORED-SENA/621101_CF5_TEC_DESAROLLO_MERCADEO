@@ -59,7 +59,7 @@
       br
       br
       |Se pueden distinguir 3 tipos de canales según Enrique Diez de Castro (2004).
-    TabsC.color-primario.mb-5
+    TabsC.mb-5
       .py-md-4(titulo="Canal de bienes de consumo")
         .row
           .col-md-6.mb-md-0
@@ -216,7 +216,7 @@
             i.lista-ul__vineta
             p 
               b Agente comercial o corredor: 
-              b-none todo intermediario con autoridad legal para actuar en nombre del fabricante
+              b-none todo intermediario con autoridad legal para actuar en nombre del fabricante.
 
           li 
             i.lista-ul__vineta
@@ -227,13 +227,13 @@
             i.lista-ul__vineta
             p 
               b Detallista o minorista: 
-              b-none  intermediario que vende a los consumidores
+              b-none  intermediario que vende a los consumidores.
 
           li 
             i.lista-ul__vineta
             p 
               b Distribuidor: 
-              b-none  término impreciso, usado por lo general para describir a intermediarios que realizan diversas funciones de distribución, como venta, almacenamiento de inventarios, otorgamiento de crédito, etc.; término más utilizado en los mercados empresariales, pero también podría emplearse para hacer referencia a los mayoristas
+              b-none  término impreciso, usado por lo general para describir a intermediarios que realizan diversas funciones de distribución, como venta, almacenamiento de inventarios, otorgamiento de crédito, etc.; término más utilizado en los mercados empresariales, pero también podría emplearse para hacer referencia a los mayoristas.
 
           li 
             i.lista-ul__vineta
@@ -481,7 +481,7 @@
         figure.mb-5
           img(src='@/assets/curso/img149.svg', alt='Texto que describa la imagen')
       .col-lg-10
-        p 
+        p.mb-5 
           b Zona de destelle. 
           b-none Esta zona está consolidada para la finalización del proceso de pedido y envío, el cual funciona de la siguiente manera: se envía el pedido, vía sistema electrónico de datos (EDI), al proveedor, quien consolida la información y entonces empieza a hacer la selección de los productos para después enviarlos al centro de distribución. Este a su vez realiza la consolidación y verificación de los documentos, luego pasa a un proceso de recepción en el cual se deja registrada la mercancía en el centro de distribución. Sigue un proceso de consolidación de mercancía por parte del almacén a lo que es llamado destelle y, una vez finalizado esto, se procede a la conformación del proceso completado, luego se procede al embarque de la mercancía. Finalmente, una vez transportada, la mercancía queda a disposición del cliente de acuerdo con las condiciones acordadas. (Monzó, 2010).
     .row.mb-3 
@@ -490,7 +490,7 @@
           img(src='@/assets/curso/img150.svg', alt='Texto que describa la imagen')
       .col-lg-10
         p 
-          b Bodegas 
+          b Bodegas.
           b-none Según las características físicas de las bodegas, estas se pueden clasificar en bodega general, bodega de rotación y centros de acopio. (Riveros, 2015).
     .row.mb-3 
       .col-lg-2 
@@ -505,7 +505,7 @@
         figure.mb-5
           img(src='@/assets/curso/img152.svg', alt='Texto que describa la imagen')
       .col-lg-10
-        p 
+        p.mb-5
           b Zona franca. 
           b-none El Ministerio de Industria y Comercio de Colombia (2012) define las zonas francas como “áreas geográficas delimitadas del territorio nacional, en donde se desarrollan actividades industriales de bienes y de servicios o actividades comerciales, bajo una normatividad especial en materia tributaria, aduanera y de comercio exterior”.
           br
@@ -516,7 +516,7 @@
         figure.mb-5
           img(src='@/assets/curso/img153.svg', alt='Texto que describa la imagen')
       .col-lg-10
-        p 
+        p.mb-5
           b Punto de venta (PDV). 
           b-none Es el lugar en el que se efectúan las transacciones comerciales de compraventa. Cuenta con una caja registradora, un recaudador o cajero y una computadora con un programa para recaudar el dinero, entre otros. Se puede denominar al punto de venta como el conjunto de accesorios y programas que, funcionando conjuntamente, efectúan operaciones que permiten la impresión de un ticket o factura de venta, además de emitir reportes relacionados con ellas y también llevar el control de inventarios y de operaciones comerciales establecidas. Actualmente existen también cajas registradoras fiscales, es decir, cajas que tienen una autorización especial por parte de la autoridad gubernamental para que funcionen como un sistema de comprobación fiscal y que emiten tickets fiscales que pueden ser utilizados como comprobantes de pago para la declaración de impuestos. Hoy en día en los negocios y tiendas se utilizan los puntos de venta de manera variada, es decir, que se han implementado tanto en las pequeñas tiendas de abarrotes como en las grandes cadenas de supermercados y hasta en las tiendas de venta de cualquier tipo de artículos. (Riveros, 2015).
     .row.mb-3 
@@ -524,7 +524,7 @@
         figure.mb-5
           img(src='@/assets/curso/img154.svg', alt='Texto que describa la imagen')
       .col-lg-10
-        p 
+        p.mb-5 
           b Transporte dentro de la cadena logística. 
           b-none  Hace referencia a la forma como se van a transportar los productos desde la planta productora al distribuidor o, dado el caso, al consumidor final. Aquí se debe cuidar las condiciones en que viajan los productos para evitar su deterioro y posibles malestares a los clientes. De igual manera, a la entrega a tiempo se le debe hacer un estricto control, ya que en el momento es una de las grandes exigencias del mercado convirtiéndose en uno de los elementos fundamentales de un programa de servicio al cliente. Se debe, además, hacer una correcta manipulación de los productos y el arrume según lo exige el cliente. Para el transporte de las mercancías se pueden tener varias opciones: tener su propia flotilla de camiones o por contratos con empresas que prestan este servicio. Para cualquiera de las dos opciones las compañías deben relacionar los aspectos costos, cuidado de mercancías y trato con los clientes. (Prettel, 2016).
           br
@@ -559,7 +559,7 @@
           b-none Una empresa de logística, además de ofrecer una serie de servicios, permite la preparación y envío de las mercancías de una forma acorde con la tienda on-line. Es fundamental encontrar una empresa logística que ofrezca el servicio adecuado ya que va a ser esa empresa la que entregará el producto y la única que tendrá contacto físico con el cliente. (Irureta, 2015).
     p.mb-5 La empresa de servicios logísticos para marketing digital debe ofrecer los siguientes servicios:
     .tabla-a.color-primario.mb-5 
-      table.text-center
+      table.text-center.table-naranja
         caption Fuente: (Irureta, 2015).
         thead.head-non-bg  
           tr
@@ -575,6 +575,8 @@
           tr.tabla-gris
             td Sistema de seguimiento informatizado de la mercancía
             td Informa al cliente sobre la situación de su pedido.
+    br
+    br
     .h5 Logística inversa
     p.mb-5 El flujo de bienes en la cadena de suministro no termina con el consumidor o usuario industrial. En la actualidad, las empresas reconocen que las cadenas de suministro pueden funcionar en el sentido opuesto. La logística inversa es un proceso mediante el cual se recogen materiales reciclables y reutilizables, devoluciones y productos que deben reprocesarse en los puntos de consumo o uso para su reparación, remanufactura, redistribución o desecho. El efecto de la logística inversa puede apreciarse en la reducción de los desperdicios en rellenos sanitarios y de los costos operativos de las empresas. (Kerin, 2018).
     figure.mb-5
@@ -664,6 +666,8 @@
             .h5 Inventario de suministros de fabricación 
             p.mb-4 Está compuesto por los materiales que son utilizados para la fabricación, elaboración o transformación de un producto. A diferencia del inventario de materias primas, estos no pueden ser cuantificables y no están directamente implicados en estos procesos. Ej. Clavos, puntillas.
           hr
+    br
+    br
     .h5 Stock de inventarios
     figure.mb-5
         img(src='@/assets/curso/img167.jpg', alt='Texto que describa la imagen')
@@ -715,6 +719,8 @@
               img(src='@/assets/curso/img171.svg', alt='Texto que describa la imagen' style= "width: 200px").m-auto.my-4
           .col-xl-8
             p.pe-5.py-5 Este tipo de stock está directamente relacionado con el sistema de producción JIT (Just in Time), que trata de trabajar sobre la demanda, iniciando su proceso de producción cuando exista una demanda concreta y manteniendo un stock sin unidades de producto almacenadas.
+    br
+    br
     .h5 Estrategias de distribución
     p.mb-5 Diez de Castro (2004), define 3 estrategias de distribución dando respuesta a las siguientes disyuntivas ¿debo llevar los productos por mis propios medios hasta el cliente (consumidor o industrial) , o ¿debo utilizar canales de distribución ya establecidos?
     .mx-5.mb-5
@@ -749,7 +755,7 @@
           hr
     p.mb-5
       b Las estrategias de distribución para la cobertura de mercado son las siguientes:
-    TabsC.color-primario.mb-5
+    TabsC.mb-5
       .py-3.py-md-4(titulo="Distribución intensiva")
         .row
           .col-md-6.mb-4.mb-md-0.p-5
@@ -828,6 +834,8 @@
         .col-lg-6
           .cajon.cajonh2.color-secundario.p-4.mb-4
             p Cross docking indirecto: en este caso los paquetes son recibidos, fragmentados y reetiquetados dentro de nuevos paquetes en un centro de distribución para entregarlos a los proveedores locales, es decir, que existe mayor manipulación en los paquetes, pero todos manejando el mismo formato. La preparación del pedido por cliente no la hace el distribuidor, sino el proveedor antes de despachar la mercadería. Por lo tanto, es el distribuidor quien consolida la carga para entregar a distintos clientes y agregar otros productos. (Papporello, 2013).
+    br
+    br
     .h5 Software para Georreferenciación
     .row.mb-5
           .col-md-6.mb-4.mb-md-0
@@ -835,6 +843,8 @@
           .col-lg-6 
             figure.mb-4
               img(src='@/assets/curso/img183.jpg', alt='Texto que describa la imagen' style='width: 500px' )
+    br
+    br
     #t_3_6.titulo-segundo
       .h4 3.6 Plan de distribución
     .row.mb-5

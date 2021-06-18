@@ -21,7 +21,7 @@
     br
     .h5 Características del marketing digital
     p.mb-5 La combinación de las técnicas de marketing con las nuevas tecnologías de la información y la comunicación proporciona al marketing digital las siguientes características: (Irureta, 2015).
-    .tabla-a.color-primario.mb-5 
+    .tabla-a.color-primario.table-naranja.mb-5 
       table.text-center
         caption Fuente: (Irureta, 2015).
         thead.head-non-bg 
@@ -217,12 +217,12 @@
             <th colspan="2"> Según el tipo de comunicación</th>
             
         tbody
-          tr.tabla-gris
-            td 
+          tr.tabla-gris.td-linea-gruesa
+            td.td-linea-gruesa 
               b Oral
             td Cuando se realiza oralmente, por ejemplo, una videoconferencia.
           tr
-            td 
+            td.td-linea-gruesa 
               b Escrita 
             td Es la que se realiza utilizando texto, por ejemplo, el chat o el correo electrónico.
         thead
@@ -231,11 +231,11 @@
             
         tbody
           tr
-            td.tabla-gris 
+            td.tabla-gris.td-linea-gruesa 
               b Unidireccional
             td La información viaja en un solo sentido. El emisor transmite la información sin esperar respuesta por parte del receptor (por ejemplo, los blogs).
           tr
-            td 
+            td.td-linea-gruesa 
               b Bidireccional
             td La información viaja en ambos sentidos. El emisor y el receptor están en igualdad de condiciones e intercambian papeles. Como ejemplo tenemos la telefonía por Internet, el chat, etc.
         thead
@@ -244,11 +244,11 @@
             
         tbody
           tr
-            td.tabla-gris 
+            td.tabla-gris.td-linea-gruesa 
               b En tiempo real
             td La interacción se realiza simultáneamente entre los usuarios, como ejemplo tenemos el chat o la videoconferencia.
           tr
-            td 
+            td.td-linea-gruesa 
               b Escrita 
             td Es la que se realiza utilizando texto, por ejemplo, el chat o el correo electrónico.
     br
@@ -318,7 +318,7 @@
       .py-4.py-md-5(titulo="Instagram" :icono="require('@/assets/curso/img106.svg')")
         p 
           b Instagram: 
-          b-none es una red social basada en el impacto visual que facilita una amplia difusión del producto y potenciar el compromiso con las personas usuarias. Los datos recabados por analistas confirman que el uso de Instagram como herramienta en un comercio electrónico genera un grado de fidelización de más del 25% frente a otras herramientas disponibles. Instagram permite creación de videos y contenidos, permite desarrollar el denominado storytelling visual, una técnica basada en que las imágenes cuenten una historia por sí solas, para provocar emociones, sentimientos y experiencias intensas en las personas, una tendencia en auge al ser muchas las redes sociales basadas principalmente en el contenido visual. (Hernández, 2018)
+          b-none es una red social basada en el impacto visual que facilita una amplia difusión del producto y potenciar el compromiso con las personas usuarias. Los datos recabados por analistas confirman que el uso de Instagram como herramienta en un comercio electrónico genera un grado de fidelización de más del 25% frente a otras herramientas disponibles. Instagram permite creación de videos y contenidos, permite desarrollar el denominado storytelling visual, una técnica basada en que las imágenes cuenten una historia por sí solas, para provocar emociones, sentimientos y experiencias intensas en las personas, una tendencia en auge al ser muchas las redes sociales basadas principalmente en el contenido visual. (Hernández, 2018).
       .py-4.py-md-5(titulo="LinkedIn" :icono="require('@/assets/curso/img107.svg')")
         p 
           b LinkedIn: 

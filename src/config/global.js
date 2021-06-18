@@ -68,7 +68,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.4',
-            titulo: 'E- business',
+            titulo: 'E-business',
             hash: 't_2_4',
           },
         ],
@@ -265,11 +265,11 @@ export default {
     },
     {
       referencia:
-        'Hoyer, W. Mclnnis, D. (2018) Comportamiento del consumidor. Ed. 7. México. Cengage.',
+        'Hoyer, W.; Mclnnis, D. (2018) Comportamiento del consumidor. Ed. 7. México. Cengage.',
     },
     {
       referencia:
-        'Gallo, M.A (2016) Introducción a la logística, Tulua. Uceva.',
+        'Gallo, M. A. (2016) Introducción a la logística, Tulua. Uceva.',
     },
     {
       referencia:
@@ -281,19 +281,19 @@ export default {
     },
     {
       referencia:
-        'Kerin, R. Harley, S. (2018). Marketing. Ed.13 México. McGraw Hill.',
+        'Kerin, R.; Harley, S. (2018). Marketing. Ed.13 México. McGraw Hill.',
     },
     {
       referencia:
-        'Kloter, P. Keller, K. (2016). Dirección de marketing. Ed. 15. México. Pearson.',
+        'Kotler, P.; Keller, K. (2016). Dirección de marketing. Ed. 15. México. Pearson.',
     },
     {
       referencia:
-        'Kotler, P. Amstrong, G. (2017). Marketing. Ed.16. México. Pearson.',
+        'Kotler, P.; Amstrong, G. (2017). Marketing. Ed.16. México. Pearson.',
     },
     {
       referencia:
-        'Lambin, J.J (2009) Dirección de marketing. Gestión estratégica y operativa de mercado. Ed. 2. México. McGraw-Hill.',
+        'Lambin, J.J. (2009) Dirección de marketing. Gestión estratégica y operativa de mercado. Ed. 2. México. McGraw-Hill.',
     },
     {
       referencia:
@@ -305,7 +305,7 @@ export default {
     },
     {
       referencia:
-        'Rivas, J. Grande, I. (2017) Comportamiento del consumidor. Decisiones y estrategias de marketing. Ed. 8. Editorial ESIC.',
+        'Rivas, J.; Grande, I. (2017) Comportamiento del consumidor. Decisiones y estrategias de marketing. Ed. 8. Editorial ESIC.',
     },
     {
       referencia:
@@ -458,7 +458,7 @@ export default {
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/45158?page=1 ',
     },
     {
-      texto: 'Hoyer, W; Mclnnis, D. (2018) Comportamiento del consumidor.',
+      texto: 'Hoyer, W.; Mclnnis, D. (2018) Comportamiento del consumidor.',
       tipo: 'Libro',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7493&pg=1 ',
     },
@@ -468,7 +468,7 @@ export default {
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5357&pg=1 ',
     },
     {
-      texto: 'Kerin, R; Harley, S. (2018). Marketing.',
+      texto: 'Kerin, R.; Harley, S. (2018). Marketing.',
       tipo: 'Libro',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=6261&pg=1 ',
     },
@@ -478,12 +478,12 @@ export default {
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4273&pg=1 ',
     },
     {
-      texto: 'Kotler, P; Amstrong, G. (2017). Marketing.    ',
+      texto: 'Kotler, P.; Amstrong, G. (2017). Marketing.    ',
       tipo: 'Libro',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4426&pg=1 ',
     },
     {
-      texto: 'Lambin, J.J (2009) Dirección de marketing.',
+      texto: 'Lambin, J.J. (2009) Dirección de marketing.',
       tipo: 'Libro',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=515&pg=1 ',
     },
@@ -500,7 +500,7 @@ export default {
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/69104?page=1 ',
     },
     {
-      texto: 'Rivas, J; Grande, I. (2017) Comportamiento del consumidor.',
+      texto: 'Rivas, J.; Grande, I. (2017) Comportamiento del consumidor.',
       tipo: 'Libro',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/119581?page=1 ',

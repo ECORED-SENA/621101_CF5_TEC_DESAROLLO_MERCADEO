@@ -1,1 +1,1 @@
-module.exports = 'Segmentación y plann de distribución'
+module.exports = 'Segmentación y plan de distribución'

@@ -722,7 +722,7 @@
     br
     br
     .h5 Estrategias de distribución
-    p.mb-5 Diez de Castro (2004), define 3 estrategias de distribución dando respuesta a las siguientes disyuntivas ¿debo llevar los productos por mis propios medios hasta el cliente (consumidor o industrial) ? o ¿debo utilizar canales de distribución ya establecidos?
+    p.mb-5 Diez de Castro (2004), define 3 estrategias de distribución dando respuesta a las siguientes disyuntivas ¿debo llevar los productos por mis propios medios hasta el cliente (consumidor o industrial)?, o ¿debo utilizar canales de distribución ya establecidos?
     .mx-5.mb-5
       .row.mb-5
         .col-12

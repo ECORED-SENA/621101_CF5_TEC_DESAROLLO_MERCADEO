@@ -261,7 +261,7 @@ export default {
     },
     {
       referencia:
-        'Hernández E. (2018) Manual del comercio electrónico. Barcelona. Marge Books.',
+        'Hernández, E. (2018) Manual del comercio electrónico. Barcelona. Marge Books.',
     },
     {
       referencia:

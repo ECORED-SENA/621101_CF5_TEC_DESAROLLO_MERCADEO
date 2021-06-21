@@ -1004,6 +1004,8 @@
             .col-lg-11.col-md-10
               .h5 Usuario:
               p Es la persona que consume o utiliza el bien o servicio.
+          .col-12
+            hr
     .h5 Disonancia cognitiva
     .row.mb-5
       .col-lg-6 

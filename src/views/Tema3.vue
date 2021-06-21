@@ -47,7 +47,7 @@
       .h4 3.1 Canales de distribución
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/uL6khjt264c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/jln7JsbFbPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video
     br
     br
@@ -490,7 +490,7 @@
           img(src='@/assets/curso/img150.svg', alt='Texto que describa la imagen')
       .col-lg-10
         p 
-          b Bodegas.
+          b Bodegas. 
           b-none Según las características físicas de las bodegas, estas se pueden clasificar en bodega general, bodega de rotación y centros de acopio. (Riveros, 2015).
     .row.mb-3 
       .col-lg-2 
@@ -722,7 +722,7 @@
     br
     br
     .h5 Estrategias de distribución
-    p.mb-5 Diez de Castro (2004), define 3 estrategias de distribución dando respuesta a las siguientes disyuntivas ¿debo llevar los productos por mis propios medios hasta el cliente (consumidor o industrial) , o ¿debo utilizar canales de distribución ya establecidos?
+    p.mb-5 Diez de Castro (2004), define 3 estrategias de distribución dando respuesta a las siguientes disyuntivas ¿debo llevar los productos por mis propios medios hasta el cliente (consumidor o industrial) ? o ¿debo utilizar canales de distribución ya establecidos?
     .mx-5.mb-5
       .row.mb-5
         .col-12

@@ -247,14 +247,14 @@
     br
     br
     .spam-text.p-3.mb-4 
-      p Franquicia
+      p.mb-0  Franquicia
     figure.mb-4
       img(src='@/assets/curso/img127.jpg', alt='Texto que describa la imagen' )
     p.mb-5 Se caracterizan por ser negocios independientes, donde existe un franquiciador (diseño de la franquicia) y un franquiciado (quien recibe la franquicia). (Castro, 2005). Este negocio se desarrolla a partir de un contrato, donde el franquiciado explota la marca producto, imagen de un franquiciador. Para que se lleve a cabo dicha explotación, el franquiciado debe cancelar un canon de entrada cuyo valor depende de varios factores: uno de ellos es la inversión o aporte del franquiciador. Suele presentarse que el franquiciador aporta, por ejemplo, en una franquicia de comida rápida, el terreno, la infraestructura, la maquinaria y el equipo; en este caso el valor de la franquicia será alto. Por el contrario, si el aporte del franquiciador es mínimo, el canon de entrada será bajo. El pago del canon de entrada le da derecho al franquiciado de usar la marca o producto y el know how (conocimiento del negocio), así como la capacitación y la asistencia técnica. Entre las franquicias generalmente se presentan aquellas que conservan una identidad integral a nivel mundial, conocidas como franquicias formato de negocio. Todas las franquicias de este tipo tienen el mismo formato a nivel del mundo: por ejemplo, Hard Rock Café, Totto, Kokoriko, McDonald´s y otras. (Riveros, 2015).
     br
     br
     .spam-text.p-3.mb-4 
-      p Licenciamiento
+      p.mb-0  Licenciamiento
     figure.mb-4
       img(src='@/assets/curso/img128.jpg', alt='Texto que describa la imagen' )
     p.mb-5 Consiste en un contrato donde una compañía, licenciador o cedente otorga a otra compañía extranjera o licenciado o cesionario, la explotación de parte de su propiedad sobre activos determinados a cambio de una renta que puede llegar hasta el 15% de total de las ventas realizadas por el licenciatario. Estos activos están representados en marcas registradas, tecnología, know-how o conocimiento, procesos de producción y patentes. Esta estrategia es atractiva para muchas compañías, en la medida en que se reducen al mínimo riesgos sobre variables de mercado país y se logra reconocimiento internacional de la marca o producto. (Forero, 2017).
@@ -268,7 +268,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Tiendas especializadas
+              p.mb-0  Tiendas especializadas
             p En ellas se ofrece un tipo específico de producto y cuentan con la preferencia de una clientela, de la cual se debe asegurar su lealtad. (Fisher, 2017). Tiendas que presentan una organización, tienen un administrador, un cajero y una fuerza de ventas para la ubicación de sus productos y desarrollan estrategias de merchandising. (Riveros, 2015).
           .col-lg-6
             figure.mb-4
@@ -276,7 +276,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Tiendas en cadena
+              p.mb-0  Tiendas en cadena
             p Constan de dos o más establecimientos que son propiedad de una persona u organización. En éstos se manejan los mismos artículos y están decorados de manera similar. Tienen grandes ventajas en cuanto a los descuentos que obtienen al comprar grandes volúmenes de artículos. Ej. Oxxo. (Fisher, 2015).
           .col-lg-6
             figure.mb-4
@@ -284,7 +284,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Centros comerciales (Mall)
+              p.mb-0  Centros comerciales (Mall)
             p Se definen como una bodega colmada de tiendas independientes. Ofrecen zonas de alimentación, zonas de parqueo, entidades bancarias y salas de cine. Se encuentran ubicados en sitios estratégicos. Ej. Unicentro, Andino, Cacique. (Riveros, 2015).
           .col-lg-6
             figure.mb-4
@@ -292,7 +292,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Tienda por departamentos
+              p.mb-0  Tienda por departamentos
             p Se ubican en edificios, por lo que se encontrará en el primer piso la venta de una categoría de producto, manejada como una unidad estratégica de negocio, y así mismo en el segundo piso y demás. Ej. Falabella. (Riveros, 2015).
           .col-lg-6
             figure.mb-4
@@ -300,7 +300,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Tienda de barrio
+              p.mb-0  Tienda de barrio
             p Cuando el administrador desempeña varios oficios, es decir, además es el vendedor, aseador, contador y otros. Sus productos están ubicados de acuerdo con el espacio. (Riveros, 2015). Operan en pequeñas unidades dispersas, adosadas a las unidades habitacionales, con escaso surtido de productos por falta de capacidad económica y de expansión física; constituyen el único medio familiar de ingresos; tienen reducidos volúmenes de venta y, por consiguiente, altos costos de operación, bajos márgenes de utilidad y precios altos al consumidor. (Fisher, 2015).
           .col-lg-6
             figure.mb-4
@@ -308,7 +308,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Kioscos y casetas
+              p.mb-0  Kioscos y casetas
             p Se debe tener en cuenta que en algunas ciudades o países estos establecimientos pueden ser (por ley) invasores del espacio público. Ofrecen productos de consumo específicamente de conveniencia, pero a precios por encima del precio del mercado: por ejemplo, dulces, galletas, papas, periódicos y demás. (Riveros, 2015).
           .col-lg-6
             figure.mb-4
@@ -316,7 +316,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Vendedores ambulantes
+              p.mb-0  Vendedores ambulantes
             p O economía subterránea, han proliferado debido a la crisis económica recurrente y a la falta de empleo; un porcentaje alto de ventas se maneja a través de este medio; los vendedores ambulantes no pagan impuestos. (Fisher, 2015).
           .col-lg-6
             figure.mb-4
@@ -324,7 +324,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Hipermercado
+              p.mb-0  Hipermercado
             p Superficie de ventas superior a 400 m2, presentación y ubicación de productos en estanterías diferentes a las góndolas de los supermercados. (Riveros, 2015).
           .col-lg-6
             figure.mb-4
@@ -332,7 +332,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Supermercados
+              p.mb-0  Supermercados
             p Generalmente ofrecen productos alimenticios, verduras y panadería. Su característica más importante es el autoservicio. (Riveros, 2015). Son los que representan el llamado comercio moderno atienden núcleos de población de ingresos medios y altos. (Fisher, 2015).
           .col-lg-6
             figure.mb-4
@@ -340,7 +340,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Superettes o minimercados
+              p.mb-0  Superettes o minimercados
             p Ofrecen variedad de productos y están conformados por una pequeña superficie de venta, una sola puerta de entrada y salida y una caja registradora. Sus góndolas están empotradas en las paredes. (Riveros, 2015).
           .col-lg-6
             figure.mb-4
@@ -348,7 +348,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Outlet
+              p.mb-0  Outlet
             p Conocidos como tiendas de descuento. Los precios de los productos están por debajo de los precios del mercado. (Riveros, 2015).
           .col-lg-6
             figure.mb-4
@@ -356,7 +356,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Televentas
+              p.mb-0  Televentas
             p En este caso se utiliza la televisión como canal de distribución. A través de un programa, aproximadamente de una hora, se hace una demostración en vivo de los productos, así como de la manera en que se debe hacer el pedido. (Riveros, 2015).
           .col-lg-6
             figure.mb-4
@@ -364,7 +364,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Tiendas virtuales
+              p.mb-0  Tiendas virtuales
             p Es un medio directo y globalizado de contacto con los consumidores. Se abre una empresa o negocio vía online, por medio del cual se pueda promocionar productos o servicios. A través de los terminales de puntos de ventas virtuales se pueden realizar transacciones comerciales suministrando información al cliente o recibiendo pedidos y pagos. Los cobros por los pedidos realizados por medio de tiendas virtuales requieren de gran responsabilidad y generar credibilidad y confianza en los consumidores, teniendo en cuenta que estos brindan información de carácter privado y económico que debe ser conservada con seguridad y a través de software confiable. (Riveros, 2015).
           .col-lg-6
             figure.mb-4
@@ -372,7 +372,7 @@
         .row.mb-5
           .col-md-6.mb-4.mb-md-0
             .spam-text.p-3.mb-5
-              p Marketplace
+              p.mb-0  Marketplace
             p Es un mercado virtual conformado por compradores y vendedores que funciona con la misma dinámica que un mercado tradicional, pero con la diferencia de que el contacto entre la oferta y la demanda es más ágil ya que la comunicación entre estas partes es a través de un medio electrónico. Este medio de comunicación y de transacción no solo agiliza los procesos, sino que también permite contar con información detallada del producto y mantener un flujo constante de información entre los vendedores y consumidores. El marketplace o mercado virtual se maneja en una plataforma online que permite emparejar la oferta y la demanda según las necesidades de un comprador, que son satisfechas por un vendedor. Esta dinámica de mercado tiene lugar dentro de dicha plataforma, que sirve como intermediario y es un canal directo de distribución, compra y venta de productos por el cual se obtienen beneficios adicionales en disminución de costos. (Riveros, 2015).
           .col-lg-6
             figure.my-5
@@ -397,7 +397,7 @@
     h4 Almacén dentro de la cadena logística
     p.mb-5 A continuación, encuentra algunos conceptos fundamentales con respecto al almacenamiento dentro de la cadena logística.
     .spam-text.p-3.mb-4 
-      p Almacenamiento y bodegaje
+      p.mb-0  Almacenamiento y bodegaje
     p.mb-5 El almacén hace parte fundamental de la cadena de logística y su función general es la de regular el flujo de las mercancías dentro de la red logística. Gestionar adecuadamente el almacén no solo contribuye al flujo de las mercancías, sino también ayuda a la estabilidad de los procesos internos de la empresa. Asimismo, es importante para sincronizar la oferta y la demanda en el sentido en que ayuda a que a determinadas cantidades demandadas de la oferta del producto o mercancía sean entregadas satisfactoriamente, sin tiempos prolongados de espera, o sea, garantiza la oferta constante de los productos o materias primas. Todo esto requiere de un control adecuado de las existencias en el almacén. (Riveros, 2015).
     figure.mb-5
       img(src='@/assets/curso/img144.svg', alt='Texto que describa la imagen' )
@@ -405,7 +405,7 @@
     br
     br
     .spam-text.p-3.mb-4 
-      p Tipos de almacén
+      p.mb-0  Tipos de almacén
     p.mb-5 Urzelai (2015) describe a continuación la clasificación de diferentes tipos de almacenes, que se pueden agrupar teniendo en cuenta dos criterios:
     .row.mb-5 
       .col-md-6.mb-4.mb-md-0
@@ -457,7 +457,7 @@
     br
     br
     .spam-text.p-3.mb-4 
-      p Principales zonas del almacén
+      p.mb-0  Principales zonas del almacén
     figure.mb-4
       img(src='@/assets/curso/img146.jpg', alt='Texto que describa la imagen' )
     .row.mb-3 
@@ -784,7 +784,7 @@
               img(src='@/assets/curso/img177.jpg', alt='Texto que describa la imagen' style='width: 340px').m-auto
               figcaption Fuente: https://www.elcorral.com/ 
     .spam-text.p-3.mb-5
-      p Estrategia de presión Push
+      p.mb-0  Estrategia de presión Push
     .row.mb-5
           .col-md-6.mb-4.mb-md-0
             p En una estrategia de comunicación de presión, la mayor parte del esfuerzo de marketing se concentra en las iniciativas dirigidas a los mayoristas y los minoristas para inducirlos a cooperar con la empresa, a referenciar la marca, a mantener un nivel mínimo de existencias, a mostrar los productos y darles suficiente visibilidad en sus anaqueles. El objetivo es obtener la cooperación voluntaria ofreciendo términos comerciales atractivos, es decir, grandes márgenes, descuentos por cantidad, publicidad local o en tiendas, subvenciones promocionales, distribución de muestras gratuitas en las tiendas, etc. Aquí, la venta y la comunicación personal son los instrumentos de marketing claves. El papel de los representantes de ventas y de los promotores será particularmente importante. Resulta imprescindible un programa de iniciativas para obtener el apoyo de los intermediarios. Cuanto mayor es su poder de negociación, más difícil será para la empresa obtener su apoyo. (Lambin, 2009).
@@ -792,7 +792,7 @@
             figure.mb-4
               img(src='@/assets/curso/img178.jpg', alt='Texto que describa la imagen' )
     .spam-text.p-3.mb-5
-      p Estrategias de aspiración (pull)
+      p.mb-0  Estrategias de aspiración (pull)
     .row.mb-5
           .col-md-6.mb-4.mb-md-0
             p Cuando se adopta una estrategia de aspiración, el fabricante enfoca sus esfuerzos de comunicación en el usuario final, evadiendo a los intermediarios e intentando construir una demanda directamente entre los clientes potenciales del segmento objetivo. El objetivo de comunicación es crear una demanda de cliente y una lealtad de marca fuerte entre los consumidores, para poder arrastrar la marca a través del canal de distribución, forzando a los intermediarios a comercializarla para satisfacer la demanda de los consumidores. Para alcanzar estos objetivos, el fabricante deberá invertir la mayor proporción de su presupuesto de comunicación en publicidad en medios masivos, promociones, y esfuerzos de marketing que apunten a ganar las preferencias de los consumidores finales. (Lambin, 2009).
@@ -800,7 +800,7 @@
             figure.mb-4
               img(src='@/assets/curso/img179.jpg', alt='Texto que describa la imagen' )
     .spam-text.p-3.mb-5
-      p Trade Marketing
+      p.mb-0  Trade Marketing
     .row.mb-5
           .col-md-6.mb-4.mb-md-0
             p Es una estrategia del marketing relacional entre el canal de distribución y el productor o proveedor. Se define como un asesor logístico para el canal de distribución en tiendas de pequeña y de gran superficie. Recordemos que el proceso logístico comprende los elementos de la distribución física (almacenamiento, transporte, control de inventario, procesamiento de pedido, manejo de materiales y demás). Comprende el conjunto de acciones que el fabricante desarrolla, de acuerdo con su estrategia de producción, teniendo en cuenta las necesidades de cada uno de sus clientes y de sus formas de venta, con el fin de conseguir un objetivo común: la satisfacción del consumidor. Se trata de crear un conjunto de marketing entre fabricante y distribuidor y de diseñar conjuntamente un plan operativo eficaz con rentabilidad para ambas partes. (Riveros, 2015).
@@ -808,7 +808,7 @@
             figure.mb-4
               img(src='@/assets/curso/img180.jpg', alt='Texto que describa la imagen' )
     .spam-text.p-3.mb-5
-      p Category Management
+      p.mb-0  Category Management
     .row.mb-5
           .col-md-6.mb-4.mb-md-0
             p Con base en esto se puede decir que el category management es una nueva forma de administrar el negocio detallista, gestionando cada categoría como si fuera un negocio independiente y dirigiéndola a las necesidades de los consumidores de cada uno de los puntos de ventas, de manera que se cree una cadena de valor para el consumidor final del producto. (Riveros, 2015).
@@ -819,7 +819,7 @@
             figure.mb-4
               img(src='@/assets/curso/img181.jpg', alt='Texto que describa la imagen' )
     .spam-text.p-3.mb-5
-      p Cross Docking
+      p.mb-0  Cross Docking
     .row.mb-5
           .col-md-6.mb-4.mb-md-0
             p Es el equilibrio en un proceso de consolidación de productos y de consolidación de varios pedidos. Su estrategia se fundamenta básicamente en un flujo continuo de productos, ahorro de costos, transporte rápido, a bajo costo, y un soporte para las necesidades de los clientes. La principal evidencia de que se ha implementado un sistema de cross docking es que existe un tiempo de almacenamiento inferior a 24 horas desde el momento en que la mercancía es recibida y se envía a la zona de picking. En este proceso en particular el material se recoge extrayendo unidades o conjuntos embalados de una unidad de embalada superior que contiene más unidades de las mismas y por último se realiza un efectivo intercambio de información. (Riveros, 2015).

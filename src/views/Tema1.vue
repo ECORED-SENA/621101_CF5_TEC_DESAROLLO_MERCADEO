@@ -108,7 +108,6 @@
       .col-8
         figure.mb-5
           img(src='@/assets/curso/img15.svg', alt='Texto que describa la imagen').m-auto.mb-3
-          figcaption Fuente: Autor.
     br
     br
     #t_1_1.titulo-segundo
@@ -117,7 +116,7 @@
     h4 Pasos para segmentar el mercado
     p.mb-5 Kerin (2018) determina los cinco pasos clave para segmentar y definir los mercados meta y vincular las necesidades del mercado de consumidores con el programa de marketing de la organización. 
     TabsA.color-secundario.mb-5
-      .tarjeta.color-secundario--borde.color-azul.p-4(titulo="PASO 1:")
+      .tarjeta.color-secundario--borde.color__tab--azul.p-4(titulo="PASO 1:")
         .row
           .col-xl-4
             figure
@@ -157,7 +156,6 @@
       .col-8
         figure.mb-5
           img(src='@/assets/curso/img21.svg', alt='Texto que describa la imagen').m-auto.mb-3
-          figcaption Fuente: Autor.
     br
     br
     h4 Variables de segmentación
@@ -518,7 +516,6 @@
     p.mb-5 En el siguiente cuadro se describen los criterios conductuales para segmentar mercados. 
     .tabla-d.color-acento-botones.mb-5 
       table
-        caption Fuente: Autor. 
         thead.text-center
           tr
             th 
@@ -756,7 +753,6 @@
     p.mb-5 Fisher (2017) describe algunos nichos de mercados emergentes:
     figure.mb-5 
       img(src='@/assets/curso/img60.svg', alt='Texto que describa la imagen')
-      figcaption Fuente: Autor.
     br
     h4.mt-5 Consumidor
     p.mb-5 Los consumidores son personas naturales que adquieren bienes y servicios para su satisfacción personal. Son compradores de alimentos, vestuario, productos para el aseo personal y para su hogar, educación, recreación, entre otros. Precisamente debido a la magnitud que toman estos mercados, se hacen muy heterogéneos; cada consumidor desea satisfacer su necesidad de manera diferente. Toda esta compleja situación de mercado, exige una mayor gestión de la gerencia de marketing y su grupo para diseñar un producto o servicio capaz de ofrecerle a cada uno el beneficio esperado. Los consumidores, de acuerdo con el segmento al que pertenecen, así mismo se comportan frente al consumo de bienes y servicios. (Prettel, 2016).

@@ -70,7 +70,7 @@
     br
     br
     .spam-text.p-3.mb-5 
-      p Marketing relacional
+      p.mb-0  Marketing relacional
     .row.mb-5 
       .col-lg-2 
         figure.mb-5
@@ -86,7 +86,7 @@
     br
     br
     .spam-text.p-3.mb-5 
-      p Marketing de buscadores
+      p.mb-0 Marketing de buscadores
     .row.mb-5 
       .col-lg-2 
         figure.mb-5
@@ -159,7 +159,7 @@
     br
     br
     .spam-text.p-3.mb-5 
-      p Marketing de afiliación
+      p.mb-0  Marketing de afiliación
     .row.mb-5 
       .col-lg-2 
         figure.mb-5
@@ -169,7 +169,7 @@
     br
     br
     .spam-text.p-3.mb-5 
-      p Cross marketing
+      p.mb-0  Cross marketing
     .row.mb-5 
       .col-lg-2 
         figure.mb-5
@@ -179,7 +179,7 @@
     br
     br
     .spam-text.p-3.mb-5 
-      p Comunicación Online
+      p.mb-0  Comunicación Online
     .row.mb-5 
       .col-lg-2 
         figure.mb-5
@@ -254,7 +254,7 @@
     br
     br
     .spam-text.p-3.mb-5 
-      p Community Manager
+      p.mb-0  Community Manager
     .row.mb-5 
       .col-lg-2 
         figure.mb-5

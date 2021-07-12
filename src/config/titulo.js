@@ -1,1 +1,2 @@
-module.exports = 'Segmentación y plan de distribución'
+module.exports =
+  'Componente Formativo con un nombre extremadamente largo y extenso'

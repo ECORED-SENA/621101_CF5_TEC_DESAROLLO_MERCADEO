@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3 3
-      .h3 Distribución comercial 
+        span 3
+      h1 Distribución comercial 
     .row.mb-5
       .col-lg-6 
           p Diez de Castro (2004) define la distribución comercial como la «función que permite el traslado de productos y servicios desde su estado final de producción al de adquisición y consumo», abarcando el conjunto de actividades o flujos necesarios para situar los bienes y servicios producidos a disposición del comprador final (individuos u organizaciones) en las condiciones de lugar, tiempo, forma y cantidad adecuados.
@@ -16,42 +16,42 @@
     .bloque-texto-a.color-secundario.color-citas.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          .h4 Función de compra y venta
+          h2 Función de compra y venta
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p Implica el desarrollo de un proceso de comunicación bilateral, en el que las partes vendedora y compradora fijan los términos del intercambio (precios, condiciones de venta, plazos de pago, etc.) y acuerdan el modo de traspaso de la propiedad del producto o servicio.
     .bloque-texto-a.color-secundario.color-citas.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          .h4 Función de transporte y difusión de la producción  
+          h2 Función de transporte y difusión de la producción  
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p La distribución permite que, desde un único punto de fabricación, los productos se vendan en cientos o miles de establecimientos. Los canales de distribución realizan la difusión de la producción a los puntos de venta. La función de transporte y difusión de la producción implica el desarrollo de otras actividades, como la carga y descarga de la mercancía, seguros y fletes, etc.
     .bloque-texto-a.color-secundario.color-citas.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          .h4 Función de fraccionamiento
+          h2 Función de fraccionamiento
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p El fabricante, generalmente, abastece a mayoristas en grandes cantidades, según sus necesidades. Los mayoristas sirven a los minoristas según sus requerimientos, partiendo los grandes lotes en lotes menores. Por último, los minoristas se adaptan a la demanda de los consumidores y les venden cantidades reducidas, normalmente una unidad. La función de fraccionamiento lleva consigo empaquetado, embalaje, manejo y manipulación de existencias, etc.
     .bloque-texto-a.color-secundario.color-citas.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          .h4 Función de almacenamiento
+          h2 Función de almacenamiento
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p Disponer en todo momento de los productos necesarios para satisfacer la demanda de sus clientes. La necesidad por parte de fabricantes, mayoristas y minoristas de poseer almacenes adecuados a las necesidades de demanda viene dada porque los clientes no sólo requieren determinadas cantidades, sino que las exigen en un momento determinado. El no disponer de una mercancía en un momento concreto conduce a la pérdida de la venta, e incluso puede suponer la pérdida de un cliente.
     br
     br
     #t_3_1.titulo-segundo
-      .h4 3.1 Canales de distribución
+      h2 3.1 Canales de distribución
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/jln7JsbFbPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video
     br
     br
-    .h5 Canales de distribución
+    h4 Canales de distribución
     p.mb-5 Los canales de distribución son uno de los eslabones de los procesos del marketing logístico y constituyen la parte estratégica para muchos empresarios que generan valores agregados a los consumidores. (Riveros, 2015).
       br
       br
@@ -89,7 +89,7 @@
               img(src='@/assets/curso/img115.jpg', alt='Texto que describa la imagen'  style='width: 500px')
     br
     br
-    .h5 Funciones de los canales de distribución
+    h4 Funciones de los canales de distribución
     p.mb-5 Gustavo Riveros (2015) explica las funciones de los canales de distribución.
     .row.mb-5.justify-content-center
       .col-lg-10
@@ -101,7 +101,7 @@
               figure
                   img(src='@/assets/curso/img116.svg', alt='Texto que describa la imagen' style='width:120px').m-auto
             .col-lg-10.col-md-9.col-sm-8
-              .h5 Almacenar o bodegaje:
+              h4 Almacenar o bodegaje:
               p Los canales de distribución generan valores agregados a los consumidores por medio del almacenamiento, que se puede presentar en una bodega, en la góndola, en el mostrador o en una vitrina. De acuerdo con el producto, las condiciones de almacenamiento cambian y se deben ajustar.
           .col-12
             hr
@@ -110,7 +110,7 @@
               figure
                   img(src='@/assets/curso/img117.svg', alt='Texto que describa la imagen' style='width:120px').m-auto
             .col-lg-10.col-md-9.col-sm-8
-              .h5 Transportar: 
+              h4 Transportar: 
               p Para desplazar el producto de un lugar a otro se requiere transporte o manipulación. Si analizamos el movimiento del producto dentro del punto de venta, hay que transportarlo desde su bodega hasta la góndola, y desde esta hacia el consumidor final. A su vez, el consumidor escoge su producto y, para continuar su proceso de compra, requiere un medio en el que pueda aglutinar y manipular los productos escogidos.
           .col-12
             hr
@@ -119,7 +119,7 @@
               figure
                   img(src='@/assets/curso/img118.svg', alt='Texto que describa la imagen' style='width:120px').m-auto 
             .col-lg-10.col-md-9.col-sm-8
-              .h5 Fraccionar:
+              h4 Fraccionar:
               p Con base en las necesidades del mercado, específicamente el local, el canal de distribución ofrece la cantidad requerida por los consumidores. Por ejemplo, si el mercado requiere una sola unidad de chocolate y no toda la libra, es el canal quien satisface a este consumidor.
           .col-12
             hr
@@ -128,7 +128,7 @@
               figure
                   img(src='@/assets/curso/img119.svg', alt='Texto que describa la imagen' style='width:120px').m-auto
             .col-lg-10.col-md-9.col-sm-8
-              .h5 Categorización de los productos: 
+              h4 Categorización de los productos: 
               p La ubicación de los productos dentro del establecimiento debe presentarse con base en su funcionalidad, tamaño, color, momentos de uso o consumo y demás, con el ánimo de que el consumidor ahorre tiempo, es decir, logre una ganancia (valor agregado).
           .col-12
             hr
@@ -137,7 +137,7 @@
               figure
                   img(src='@/assets/curso/img120.svg', alt='Texto que describa la imagen' style='width:120px').m-auto
             .col-lg-10.col-md-9.col-sm-8
-              .h5 Servicios adicionales:
+              h4 Servicios adicionales:
               p Los canales de distribución, además de ofrecer valores agregados, también le brindan al consumidor servicios adicionales (con cobro) como parqueadero, financiación y otros.
           .col-12
             hr
@@ -146,7 +146,7 @@
               figure
                   img(src='@/assets/curso/img121.svg', alt='Texto que describa la imagen' style='width:120px').m-auto
             .col-lg-10.col-md-9.col-sm-8
-              .h5 Administración de inventarios: 
+              h4 Administración de inventarios: 
               p Los canales de distribución manejan una gran cantidad de mezclas de producto, pero estas se deben controlar por medio de un método de control de inventario, como por ejemplo FIFO o PEPS (primero en entrar, primero en salir), LIFO o UEPS (último en entrar, primero en salir), promedios y justo a tiempo (JIT: todo lo que se produce se vende, cero inventarios). Esto permitirá lotes bajos y suficientes, acordes con el mercado local, para evitar lucros cesante o altos inventarios, tal como se explica más adelante.
           .col-12
             hr
@@ -155,10 +155,10 @@
               figure
                   img(src='@/assets/curso/img115.svg', alt='Texto que describa la imagen' style='width:120px').m-auto
             .col-lg-10.col-md-9.col-sm-8
-              .h5 Recepción y despacho de pedidos:
+              h4 Recepción y despacho de pedidos:
               p.mb-5 Estos canales de distribución reciben las mercancías en el momento en que hacen sus pedidos a los proveedores, por lo que cuentan con almacenamiento y administración de inventarios. Sin embargo, en muchos casos deben contar además con procesos logísticos para despachar pedidos a los consumidores finales o a los consumidores intermedios, como en el caso de productos industriales.
             hr
-    .h5 Estructura de los canales de distribución
+    h4 Estructura de los canales de distribución
     p.mb-5 La estructura de los canales de distribución se describe a continuación:
     .tarjeta--container.row.mb-5
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
@@ -195,7 +195,7 @@
     br
     br
     #t_3_2.titulo-segundo
-      .h4 3.2 Intermediario
+      h2 3.2 Intermediario
     .row.mb-5
       .col-lg-6 
           p Los intermediarios son personas o empresas que ayudan en la distribución de los productos fabricados por una empresa, agregando valor al proporcionar uno o más tipos de uso, permitiendo que el producto esté disponible cuándo y dónde los clientes lo necesitan. Los mayoristas se dividen en dos grandes categorías: mayoristas que comercian todos los productos o unas categorías de productos y agentes o corredores -brókeres-. (Eslava, 2017).
@@ -243,7 +243,7 @@
     br
     br
     #t_3_3.titulo-segundo
-      .h4 3.3 Acuerdos comerciales
+      h2 3.3 Acuerdos comerciales
     br
     br
     .spam-text.p-3.mb-4 
@@ -261,7 +261,7 @@
     br
     br
     #t_3_4.titulo-segundo
-      .h4 3.4 Formatos comerciales
+      h2 3.4 Formatos comerciales
     p.mb-5 Riveros (2015) realiza la categorización de los canales de distribución en: detallistas que son aquellos establecimientos que tienen como fin vender los productos al consumidor final. Ej. Almacenes Éxito y tiendas de barrio; y en mayoristas que son aquellos establecimientos que tienen como fin vender los productos a intermediarios o detallistas. Ej. Makro o Postobón. A continuación, se describen algunos formatos comerciales.
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA
@@ -380,7 +380,7 @@
     br
     br
     #t_3_5.titulo-segundo
-      .h4 3.5 Logística
+      h2 3.5 Logística
     .row.mb-5
         .col-md-6.mb-4.mb-md-0
           p Se puede definir la gestión de la cadena de suministro o supplychain management (SCM) como la estrategia global encargada de gestionar conjuntamente las funciones, procesos, actividades y agentes que componen la cadena de suministro. En este sentido, se pretende que cada función, proceso, actividad o compañía deje de comportarse de una forma aislada, procurando alcanzar sus propios objetivos; se trata de que los agentes que componen la cadena de suministro se embarquen en un proyecto común que permita avanzar a todo el equipo hacia objetivos comunes. (Urzelai, 2013).
@@ -394,7 +394,7 @@
       p Riveros (2015) define que el concepto de calidad penetra a la logística como “hacerlo bien desde la primera vez” o “cero defectos”, buscando el mejoramiento de procesos. Esto permite adicionar un nuevo criterio de calidad, además del técnico y del comercial: el logístico. En ese sentido, la variable tiempo en el marketing logístico significa que el consumidor está deseoso de ganar tiempo sacrificando precio. También comparte este criterio la variable espacio, según la cual la cercanía del punto de venta al lugar de residencia es vital. Hoy en día el sistema logístico empresarial impera en el ámbito internacional por medio de la distribución física internacional, es decir, cobran relevancia el desplazamiento de la carga desde el país de origen, la agencia de aduana, el asesor logístico, el transporte terrestre local hasta el país de destino y demás. También se cuenta con empresas externas —outsourcing— que desarrollan las actividades o funciones que permiten optimizar o mejorar procesos logísticos.
     br
     br
-    .h5 Almacén dentro de la cadena logística
+    h4 Almacén dentro de la cadena logística
     p.mb-5 A continuación, encuentra algunos conceptos fundamentales con respecto al almacenamiento dentro de la cadena logística.
     .spam-text.p-3.mb-4 
       p Almacenamiento y bodegaje
@@ -577,7 +577,7 @@
             td Informa al cliente sobre la situación de su pedido.
     br
     br
-    .h5 Logística inversa
+    h4 Logística inversa
     p.mb-5 El flujo de bienes en la cadena de suministro no termina con el consumidor o usuario industrial. En la actualidad, las empresas reconocen que las cadenas de suministro pueden funcionar en el sentido opuesto. La logística inversa es un proceso mediante el cual se recogen materiales reciclables y reutilizables, devoluciones y productos que deben reprocesarse en los puntos de consumo o uso para su reparación, remanufactura, redistribución o desecho. El efecto de la logística inversa puede apreciarse en la reducción de los desperdicios en rellenos sanitarios y de los costos operativos de las empresas. (Kerin, 2018).
     figure.mb-5
       img(src='@/assets/curso/img156.svg', alt='Texto que describa la imagen')
@@ -586,7 +586,7 @@
       .col-lg-8
         figure.mb-5
           img(src='@/assets/curso/img157.svg', alt='Texto que describa la imagen')
-    .h5 Inventario
+    h4 Inventario
     p.mb-5 El inventario es la cantidad de productos con los que cuenta la empresa con anterioridad al proceso de venta y que le permiten llevar a cabo procesos de comercialización. Esto gracias a las existencias del producto en almacenaje, que dan la posibilidad de diseñar estrategias de fabricación, compra y venta de los artículos. Estos inventarios son bienes tangibles que se tienen almacenados para el momento de la venta, pero también se puede tener inventarios de materias primas, repuestos y accesorios, necesarios para el proceso de producción de un producto terminado y para su posterior comercialización. Un adecuado manejo y control de los inventarios es de vital importancia ya que, por medio de actividades y técnicas, mantiene la cantidad de estos en el nivel apropiado, de tal forma que no excedan la capacidad financiera de la empresa en costos ni se corra el riesgo de no contar con las existencias necesarias para la satisfacción de la demanda. Además, tener control y hacer seguimiento a las cantidades de productos almacenados es fundamental para llevar a término la comercialización del producto y brindar un buen servicio al cliente. (Riveros, 2015).
     .h6 Gustavo Riveros (2015) clasifica los tipos de inventarios de la siguiente manera:
     br
@@ -636,7 +636,7 @@
             figure
                 img(src='@/assets/curso/img163.svg', alt='Texto que describa la imagen' style='width:90px').m-auto  
           .col-10
-            .h5 Inventario de productos terminados
+            h4 Inventario de productos terminados
             p Está compuesto por el conjunto de bienes manufacturados que ya han pasado por un proceso de producción y de control de calidad y están aptos para ser comercializados hacia su consumidor final.
         .col-12
           hr
@@ -645,7 +645,7 @@
             figure
                 img(src='@/assets/curso/img164.svg', alt='Texto que describa la imagen' style='width:90px').m-auto 
           .col-10
-            .h5 Inventario de productos en proceso de fabricación
+            h4 Inventario de productos en proceso de fabricación
             p Está compuesto por el conjunto de bienes semielaborados que aún tienen procesos de fabricación pendientes que les impiden ser comercializados.
         .col-12
           hr
@@ -654,7 +654,7 @@
             figure
                 img(src='@/assets/curso/img165.svg', alt='Texto que describa la imagen' style='width:90px').m-auto 
           .col-10
-            .h5 Inventario de materias primas
+            h4 Inventario de materias primas
             p Está compuesto por los materiales utilizados dentro de la elaboración del producto terminado o que hacen parte del proceso de transformación. Un ejemplo de esto es la madera que está siendo transformada para la producción en masa de muebles.
         .col-12
           hr
@@ -663,12 +663,12 @@
             figure
                 img(src='@/assets/curso/img166.svg', alt='Texto que describa la imagen' style='width:90px').m-auto 
           .col-10
-            .h5 Inventario de suministros de fabricación 
+            h4 Inventario de suministros de fabricación 
             p.mb-4 Está compuesto por los materiales que son utilizados para la fabricación, elaboración o transformación de un producto. A diferencia del inventario de materias primas, estos no pueden ser cuantificables y no están directamente implicados en estos procesos. Ej. Clavos, puntillas.
           hr
     br
     br
-    .h5 Stock de inventarios
+    h4 Stock de inventarios
     figure.mb-5
         img(src='@/assets/curso/img167.jpg', alt='Texto que describa la imagen')
     
@@ -721,7 +721,7 @@
             p.pe-5.py-5 Este tipo de stock está directamente relacionado con el sistema de producción JIT (Just in Time), que trata de trabajar sobre la demanda, iniciando su proceso de producción cuando exista una demanda concreta y manteniendo un stock sin unidades de producto almacenadas.
     br
     br
-    .h5 Estrategias de distribución
+    h4 Estrategias de distribución
     p.mb-5 Diez de Castro (2004), define 3 estrategias de distribución dando respuesta a las siguientes disyuntivas ¿debo llevar los productos por mis propios medios hasta el cliente (consumidor o industrial)?, o ¿debo utilizar canales de distribución ya establecidos?
     .mx-5.mb-5
       .row.mb-5
@@ -732,7 +732,7 @@
             figure
                 img(src='@/assets/curso/img172.svg', alt='Texto que describa la imagen' style='width:90px').m-auto  
           .col-10
-            .h5 Distribución directa
+            h4 Distribución directa
             p Implica normalmente la no existencia de intermediarios entre proveedor y cliente y la utilización de canales de distribución propios. 
         .col-12
           hr
@@ -741,7 +741,7 @@
             figure
                 img(src='@/assets/curso/img173.svg', alt='Texto que describa la imagen' style='width:90px').m-auto  
           .col-10
-            .h5 Distribución indirecta
+            h4 Distribución indirecta
             p La distribución indirecta supone la existencia de intermediarios y el uso de canales de distribución ajenos para atender a los clientes.
         .col-12
           hr
@@ -750,7 +750,7 @@
             figure
                 img(src='@/assets/curso/img174.svg', alt='Texto que describa la imagen' style='width:90px').m-auto  
           .col-10
-            .h5 Distribución mixta
+            h4 Distribución mixta
             p.mb-5 Utilizar la distribución por cuenta propia hasta donde sea rentable y la distribución por cuenta ajena cuando el coste de distribución así lo aconseje.
           hr
     p.mb-5
@@ -759,7 +759,7 @@
       .py-3.py-md-4(titulo="Distribución intensiva")
         .row
           .col-md-6.mb-4.mb-md-0.p-5
-            .h5 Distribución intensiva
+            h4 Distribución intensiva
             p Cuando el producto hace presencia en todos los establecimientos que pertenecen al target y que son generalmente utilizados por empresas de consumo masivo. Ej. La empresa Ramo S.A. con su producto Chocoramo. (Riveros, 2015).
           .col-md-6
             figure
@@ -768,7 +768,7 @@
       .py-3.py-md-4(titulo="Distribución selectiva")
         .row
           .col-md-6.mb-4.mb-md-0.p-5
-            .h5 Distribución selectiva
+            h4 Distribución selectiva
             p Significa seleccionar solamente aquellos establecimientos que el empresario considere estratégicamente por características como la marca, la calidad, el respaldo de marca, el precio y demás. Generalmente, cuando se lanza un nuevo producto al mercado no se ofrece en todo el territorio propio del mercado, sino que se selecciona un sector y, mejor aún, solo se ubica el producto en aquellos establecimientos de mayor venta o consumo con el fin de medir el grado de aceptación por parte del segmento de mercado. (Riveros, 2015). Ej. Specialized marca de bicicletas tiene distribuidores exclusivos para su marca.
           .col-md-6
             figure
@@ -777,7 +777,7 @@
       .py-3.py-md-4(titulo="Distribución exclusiva")
         .row
           .col-md-6.mb-4.mb-md-0.p-5
-            .h5 Distribución exclusiva
+            h4 Distribución exclusiva
             p Existen dos maneras de expresar la exclusividad: una por medio del producto y otra por territorio. En el primer caso el establecimiento ofrece ese y solo ese producto; no hay otro establecimiento que lo ofrezca. En el caso del territorio, una empresa decide estratégicamente que el distribuidor en un territorio sea uno solo. Ej. un exportador puede desear que su producto o servicio se ofrezca en un territorio como Colombia por un distribuidor exclusivo único. (Riveros, 2015). Ej. Hamburguesas El Corral únicamente vende productos Postobón en sus restaurantes en Colombia. 
           .col-md-6
             figure
@@ -826,7 +826,7 @@
           .col-lg-6 
             figure.mb-4
               img(src='@/assets/curso/img182.jpg', alt='Texto que describa la imagen' )
-    .h5 Existen dos tipos de cross docking:
+    h4 Existen dos tipos de cross docking:
     .row.mb-5 
         .col-lg-6
           .cajon.cajonh2.color-secundario.p-4.mb-4
@@ -836,7 +836,7 @@
             p Cross docking indirecto: en este caso los paquetes son recibidos, fragmentados y reetiquetados dentro de nuevos paquetes en un centro de distribución para entregarlos a los proveedores locales, es decir, que existe mayor manipulación en los paquetes, pero todos manejando el mismo formato. La preparación del pedido por cliente no la hace el distribuidor, sino el proveedor antes de despachar la mercadería. Por lo tanto, es el distribuidor quien consolida la carga para entregar a distintos clientes y agregar otros productos. (Papporello, 2013).
     br
     br
-    .h5 Software para Georreferenciación
+    h4 Software para Georreferenciación
     .row.mb-5
           .col-md-6.mb-4.mb-md-0
             p Se debe tener en cuenta el software licenciado que tiene el Sena para Georreferenciación. También se puede utilizar Google Maps, es un servidor de aplicaciones de mapas en la web que pertenece a Alphabet Inc. Ofrece imágenes de mapas desplazables, así como fotografías por satélite del mundo e incluso la ruta entre diferentes ubicaciones o imágenes a pie de calle con Google Street View, condiciones de tráfico en tiempo real (Google Traffic) y un calculador de rutas a pie, en coche, bicicleta (beta) y transporte público y un navegador GPS, Google Maps Go.
@@ -846,7 +846,7 @@
     br
     br
     #t_3_6.titulo-segundo
-      .h4 3.6 Plan de distribución
+      h2 3.6 Plan de distribución
     .row.mb-5
           .col-md-6.mb-4.mb-md-0
             p Una compañía siempre debe planificar, realiza planes a corto, medio y largo plazo. La planificación en la distribución tiene como horizonte un año, es decir, la planificación anual. El proceso de planificación se concreta en un plan de acción que se prevé consiga los objetivos fijados por la empresa. Para conseguir los objetivos, normalmente, una empresa dispone de distintas alternativas, caminos o estrategias. Las estrategias, por tanto, son las distintas formas de utilización de los medios y recursos de una empresa para conseguir los objetivos previstos de distribución, se debe elegir la estrategia más adecuada, una vez analizadas y valoradas las diferentes alternativas. (Diez de Castro, 2004).

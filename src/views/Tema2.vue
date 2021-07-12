@@ -4,11 +4,11 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3 2
-      .h3 Marketing Digital
+        span 2
+      h1 Marketing Digital
     p.mb-5 A continuación, tiene la oportunidad de revisar los conceptos principales acerca del marketing digital.
     #t_2_1.titulo-segundo
-      .h4 2.1 Plan de marketing digital
+      h2 2.1 Plan de marketing digital
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
@@ -19,7 +19,7 @@
               b “el desarrollo de las técnicas del marketing tradicional en el mundo digital, por medio de recursos y herramientas de la red cuyo propósito es la venta de los productos o servicios, aplicando estrategias de comercialización a los medios digitales”.  
     br
     br
-    .h5 Características del marketing digital
+    h4 Características del marketing digital
     p.mb-5 La combinación de las técnicas de marketing con las nuevas tecnologías de la información y la comunicación proporciona al marketing digital las siguientes características: (Irureta, 2015).
     .tabla-a.color-primario.table-naranja.mb-5 
       table.text-center
@@ -40,7 +40,7 @@
             td Ya que es el propio cliente el que realiza sus búsquedas por medio de la web
     br
     br
-    .h5 Desafíos del marketing digital
+    h4 Desafíos del marketing digital
     p.mb-5 Irureta (2015), menciona que los desafíos del marketing digital se pueden resumir en los siguientes puntos: 
     .tarjetas-ordenadas.m-auto.mb-5
       .tarjeta--boton.color-secundario.p-4.m-3.tj
@@ -55,7 +55,7 @@
       .tarjeta--boton.color-secundario.p-4.m-3.tj
           img(src='@/assets/curso/img92.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
           p.text-center Los objetivos de la empresa se deben focalizar directamente en establecer vínculos reales con los clientes, pues son ellos los que traen los beneficios y, además, influyen en otros a favor de la marca, el producto o el servicio. Conseguir vínculos reales con los clientes.
-    .h5 Pasos para elaborar un plan de marketing digital
+    h4 Pasos para elaborar un plan de marketing digital
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/owxaHr0-5kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -63,7 +63,7 @@
     br
     br
     #t_2_2.titulo-segundo
-      .h4 2.2 Estrategia digital
+      h2 2.2 Estrategia digital
     p.mb-5 El marketing digital tiene puntos de encuentro con el marketing tradicional y es necesario definir una propuesta de valor diferente y atractiva para el multicanal en su proceso de comunicación con los clientes.
     figure.mb-5
       img(src='@/assets/curso/img93.jpg', alt='Texto que describa la imagen')
@@ -102,15 +102,15 @@
     .tarjetas-ordenadas.m-auto.mb-5
       .tarjeta--boton.color-secundario.p-4.m-3.tj
           img(src='@/assets/curso/img96.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center SEO interno (on-page)
+          h4.text-center SEO interno (on-page)
           p.text-center Es el que depende de la persona usuaria y, por así decirlo, facilita el trabajo del buscador. Para mejorar este SEO se puede indexar las páginas, clasificarlas según interés, etc. 
       .tarjeta--boton.color-secundario.p-4.m-3.tj
           img(src='@/assets/curso/img97.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center SEO de contenido
+          h4.text-center SEO de contenido
           p.text-center Es el que se ocupa del contenido de las webs. En esta búsqueda tienen mucha relevancia las palabras. EI buscador ofrece resultados tras analizar la semántica web (palabras relacionadas con otras) o las keywords o palabras clave. Para determinarlas, es habitual usar herramientas especiales de análisis e incluso servicios externos. 
       .tarjeta--boton.color-secundario.p-4.m-3.tj
           img(src='@/assets/curso/img98.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center SEO externo (off-page)
+          h4.text-center SEO externo (off-page)
           p.text-center Los motores de búsqueda establecen determinadas guías de buenas prácticas, algoritmos en función de varios parámetros, etc. Cuanto más se cumplan estas guías y mejor se apliquen.
     p.mb-5 
       b El SEM (Search Engine Marketing) 
@@ -127,7 +127,7 @@
             .col-lg-2.col-md-3.col-sm-4
               img(src='@/assets/curso/img99.svg', alt='Texto que describa la imagen' style='width:120px' ).m-auto  
             .col-lg-10.col-md-9.col-sm-8
-              .h5 CPC (coste por clic)
+              h4 CPC (coste por clic)
               p Se trata de un método de publicidad por la cual el buscador coloca el resultado de un determinado anunciante en las primeras posiciones de búsqueda a cambio de un coste por cada vez que un usuario abra el enlace anunciado.
           .col-12
             hr
@@ -136,7 +136,7 @@
               figure
                 img(src='@/assets/curso/img99.svg', alt='Texto que describa la imagen' style='width:120px').m-auto  
             .col-lg-10.col-md-9.col-sm-8
-              .h5 PPA (pago por acción)
+              h4 PPA (pago por acción)
               p Es similar al CPC, pero en este caso el pago es por cada vez que alguien realiza una acción como comprar o registrarse.
           .col-12
             hr
@@ -144,7 +144,7 @@
             .col-lg-2.col-md-3.col-sm-4
               img(src='@/assets/curso/img99.svg', alt='Texto que describa la imagen' style='width:120px' ).m-auto  
             .col-lg-10.col-md-9.col-sm-8
-              .h5 CPL (coste por lead)  
+              h4 CPL (coste por lead)  
               p Es un coste por cada vez que una persona usuaria realiza una acción cualquiera dentro de la web, como solicitar información, etc. 
           .col-12
             hr
@@ -152,7 +152,7 @@
             .col-lg-2.col-md-3.col-sm-4
               img(src='@/assets/curso/img99.svg', alt='Texto que describa la imagen' style= "width:120px").m-auto  
             .col-lg-10.col-md-9.col-sm-8
-              .h5 CPM (coste por mil impresiones)
+              h4 CPM (coste por mil impresiones)
               p Es un método de pago por el que el anunciante paga cada vez que su anuncio aparece mil veces en una página.
             hr.mt-4
     p.mb-5 Los principales proveedores de anuncios son las aplicaciones Google AdWords, Yahoo Search Marketing (YSM) y Bing Ads (Microsoft adCenter).
@@ -293,10 +293,10 @@
     br
     br
     #t_2_3.titulo-segundo
-      .h4 2.3 Social Media Marketing
+      h2 2.3 Social Media Marketing
     br
     br
-    .h5 Redes sociales
+    h4 Redes sociales
     .row.mb-5
       .col-lg-6 
           figure
@@ -351,7 +351,7 @@
     br
     br
     #t_2_4.titulo-segundo
-      .h4 2.4 E-business
+      h2 2.4 E-business
     figure.mb-5 
       img(src='@/assets/curso/img111.jpg', alt='Texto que describa la imagen' )
     p.mb-5 Irureta (2015) clasifica los modelos de negocio electrónico de la siguiente forma teniendo en cuenta la relación comercial entre el cliente y el proveedor:

@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3 1
-      .h3 Segmentación de mercados
+        span 1
+      h1 Segmentación de mercados
     .row.mb-5
       .col-lg-6
         p Los mercados tomados como una unidad integral, se harían demasiado heterogéneos, lo que haría más difícil su satisfacción. Por lo anterior, el proceso de segmentación trata de convertir estos amplios y heterogéneos mercados en segmentos con características similares u homogéneas, facilitando su planeación, desarrollo y control. En el mercado de consumidores hay diversidad de necesidades, gustos, preferencias, costumbres, hábitos, de los cuales podrían resultar segmentos atractivos para las empresas. Las compañías orientadas a los clientes deberán definir la mezcla de marketing correspondiente a cada segmento. (Prettel, 2016).
@@ -32,76 +32,76 @@
       .card-avatar
         img(src="@/assets/curso/img3.svg", alt="Texto que describa la imagen" style="width:120px").img-card-avatar.pe-4
         .text-card-avatar
-          .h5 Certidumbre en el tamaño del mercado:
+          h4 Certidumbre en el tamaño del mercado:
           p.pe-5 Al conocer el grupo podrá definir el tamaño del mercado; es decir, el número aproximado de personas que conforman el mercado  disponible. Dicho de otra forma, el número aproximado de personas  que pueden comprar nuestro producto.
     .container-card-avatar.m-auto
       hr.hr-line
       .card-avatar
         img(src="@/assets/curso/img4.svg", alt="Texto que describa la imagen" style="width:120px").img-card-avatar.pe-4
         .text-card-avatar
-          .h5 Claridad al establecer planes de acción: 
+          h4 Claridad al establecer planes de acción: 
           p.pe-5 Al conocer a los integrantes del mercado meta se tendrá claridad en los planes de acción a desarrollar.
     .container-card-avatar.m-auto
       hr.hr-line
       .card-avatar
         img(src="@/assets/curso/img5.svg", alt="Texto que describa la imagen" style="width:120px").img-card-avatar.pe-4
         .text-card-avatar
-          .h5 Identificación de los consumidores integrantes del mercado: 
+          h4 Identificación de los consumidores integrantes del mercado: 
           p.pe-5 Conocer a nuestros consumidores nos dará certeza en las decisiones de mercado que se tomen.
     .container-card-avatar.m-auto
       hr.hr-line
       .card-avatar
         img(src="@/assets/curso/img6.svg", alt="Texto que describa la imagen" style="width:120px").img-card-avatar.pe-4
         .text-card-avatar
-          .h5 Reconocimiento de actividades y deseos del consumidor:  
+          h4 Reconocimiento de actividades y deseos del consumidor:  
           p.pe-5 Las costumbres de los consumidores nos sirven para saber cómo satisfacer sus necesidades en forma oportuna.
     .container-card-avatar.m-auto
       hr.hr-line
       .card-avatar
         img(src="@/assets/curso/img7.svg", alt="Texto que describa la imagen" style="width:120px").img-card-avatar.pe-4
         .text-card-avatar
-          .h5 Simpliﬁcación en la estructura de marcas:
+          h4 Simpliﬁcación en la estructura de marcas:
           p.pe-5 Al conocer nuestro mercado podemos evitar la existencia de marcas no productivas en nuestro catálogo.
     .container-card-avatar.m-auto
       hr.hr-line
       .card-avatar
         img(src="@/assets/curso/img8.svg", alt="Texto que describa la imagen" style="width:120px").img-card-avatar.pe-4
         .text-card-avatar
-          .h5 Facilidad para la realización de actividades promocionales: 
+          h4 Facilidad para la realización de actividades promocionales: 
           p.pe-5 Las actividades promocionales estarán dirigidas únicamente al grupo de interés, de modo tal que se cuidarán los recursos de la empresa y se tendrán resultados más efectivos.
     .container-card-avatar.m-auto.mb-5
       hr.hr-line
       .card-avatar
         img(src="@/assets/curso/img9.svg", alt="Texto que describa la imagen" style="width:120px").img-card-avatar.pe-4
         .text-card-avatar
-          .h5 Simplicidad para planear: 
+          h4 Simplicidad para planear: 
           p.pe-5 La planeación simplifica el conceptualizar las actividades para un grupo específico del mercado.
     
       hr.hr-line.mb-5
     br
     br
-    .h5.mt-5 Criterios de segmentación
+    h4.mt-5 Criterios de segmentación
     p.mb-5 Philip Kotler (2016) define a continuación, los criterios fundamentales para segmentar un mercado:
     .tarjetas-ordenadas.m-auto.mb-5
       .tarjeta--boton.color-secundario.p-4.m-3
           img(src='@/assets/curso/img10.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center Medible
+          h4.text-center Medible
           p.text-center Es posible medir el tamaño, el poder de compra y las características de los segmentos.
       .tarjeta--boton.color-secundario.p-4.m-3 
           img(src='@/assets/curso/img11.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center Sustancial
+          h4.text-center Sustancial
           p.text-center Los segmentos son grandes y lo suficientemente rentables como para atenderlos. Para que valga la pena dirigirse a un segmento mediante un programa de marketing adecuado, el segmento deberá ser el grupo homogéneo más grande posible. 
       .tarjeta--boton.color-secundario.p-4.m-3 
           img(src='@/assets/curso/img12.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center Accesible
+          h4.text-center Accesible
           p.text-center Es posible llegar a los segmentos y atenderlos de manera eficaz.
       .tarjeta--boton.color-secundario.p-4.m-3 
           img(src='@/assets/curso/img13.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center Diferenciable
+          h4.text-center Diferenciable
           p.text-center Los segmentos pueden distinguirse conceptualmente y responder de manera específica a diferentes elementos y programas de la mezcla de marketing.
       .tarjeta--boton.color-secundario.p-4.m-3 
           img(src='@/assets/curso/img14.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center Procesable
+          h4.text-center Procesable
           p.text-center Es posible formular programas eficaces para atraer y atender a los segmentos.
     p.mb-5 En la segmentación de mercados es indispensable que el segmento cumpla con estos cinco criterios para lograr una segmentación efectiva. 
     .row.justify-content-center
@@ -112,9 +112,9 @@
     br
     br
     #t_1_1.titulo-segundo
-      .h4 1.1 Segmento
+      h2 1.1 Segmento
     p.mb-5 Un segmento de mercado consiste en un grupo de consumidores que responden de manera similar a un conjunto determinado de esfuerzos de marketing. Las organizaciones deben enfocar sus esfuerzos en satisfacer las diferentes necesidades de segmentos de mercado individuales. El proceso de dividir un mercado en distintos grupos de compradores con diferentes necesidades, características y comportamientos, y quienes podrían requerir productos o programas de marketing separados, se llama segmentación de mercado. (Amstrong, 2017).
-    .h5 Pasos para segmentar el mercado
+    h4 Pasos para segmentar el mercado
     p.mb-5 Kerin (2018) determina los cinco pasos clave para segmentar y definir los mercados meta y vincular las necesidades del mercado de consumidores con el programa de marketing de la organización. 
     TabsA.color-secundario.mb-5
       .tarjeta.color-secundario--borde.color-azul.p-4(titulo="PASO 1:")
@@ -160,7 +160,7 @@
           figcaption Fuente: Autor.
     br
     br
-    .h5 Variables de segmentación
+    h4 Variables de segmentación
     p.mb-5 Kerin (2018) presenta cuatro variables de segmentación: 
       b segmentación geográfica
       b-none , basada en dónde viven o trabajan los posibles clientes; la 
@@ -205,7 +205,7 @@
             td Ocasiones de compra, beneficios esperados, tasa de usos y estatus del consumidor.
     br
     br
-    .h5 Segmentación geográfica
+    h4 Segmentación geográfica
     .row 
       .col-lg-6 
         figure.mb-5.p-4
@@ -277,7 +277,7 @@
             b-none se refiere a las condiciones de densidad de población de las comunidades donde pretendemos comercializar nuestros productos. Ej. Megalópolis, urbana, suburbana y rural.
     br
     br
-    .h5.mt-5 Segmentación demográfica 
+    h4.mt-5 Segmentación demográfica 
     .row 
       .col-lg-6 
         figure.mb-5.p-4
@@ -388,7 +388,7 @@
                   | Promedio de habitaciones por vivienda.
     br
     br
-    .h5 Segmentación psicográfica
+    h4 Segmentación psicográfica
     .row.mb-5
       .col-lg-6 
         figure
@@ -448,7 +448,7 @@
               b-none   a partir del concepto de familia como el conjunto de personas que cohabitan bajo un mismo techo, surge el concepto de ciclo de vida familiar, que se refiere a las características de las personas que viven en el hogar en diferentes etapas de la vida familiar. Estas etapas son: joven soltero, matrimonio sin hijos, matrimonio con hijos, padres solteros, solteros, solteros mayores. (Fernández, 2009).
     br
     br
-    .h5 Segmentación conductual
+    h4 Segmentación conductual
     .row.mb-5
       .col-lg-6 
         figure
@@ -461,7 +461,7 @@
           |Se refiere a la disposición que tiene el consumidor ante la posible compra de un producto; es decir, dentro del segmento de mercado. Estas variables se clasifican en:
     br
     br
-    .h5 Frecuencia de uso
+    h4 Frecuencia de uso
     .row
       .col-lg-6
         p Se refiere principalmente a la posición del usuario respecto a la oportunidad con que utiliza o consume el producto o servicio. Ricardo Fernández Vallinas (2009) las divide en:
@@ -477,7 +477,7 @@
             p Persona que en la actualidad no es nuestro consumidor pero que en el futuro puede serlo; esto puede ser por diferentes razones: una de ellas es que en la actualidad consuma otros productos y no conozca los beneficios del nuestro o no tenga las características de edad, estado civil o alguna otra que adquirirá en el futuro.
           div(titulo="Usuario por primera vez: ").p-3
             p Consumidor que está haciendo uso de nuestro producto por primera vez. La calidad del servicio, la satisfacción que reciba y la percepción que tenga en este primer consumo determinará que se conviertan en usuario.  
-    .h5 Ocasión de uso: 
+    h4 Ocasión de uso: 
     .row
       .col-lg-6
         p La ocasión de uso es básicamente la temporalidad de compra del producto, los consumidores compran los productos en eventos específicos, ya sea por su costumbre de uso o por la temporalidad misma del producto, Ricardo Fernández (2009) las divide en:
@@ -489,9 +489,9 @@
             p No tiene una preferencia definida por una marca, en ocasiones compra nuestro producto y en otras compras el de la competencia. Este usuario es fácilmente manipulable con promociones.
           div(titulo="Usuario de ocasiones especiales: ").p-3
             p Compra determinados productos en fechas especiales. Ej. Navidad, día de la madre.
-    .h5 Tasa de uso: 
+    h4 Tasa de uso: 
     p.mb-5 Hace una clasificación de los consumidores de acuerdo con la cantidad de producto que consumen en un periodo determinado; esto es útil para poder reconocer y clasificar las necesidades de los mismos; en este grupo encontramos los siguientes: Usuario grande, mediano y pequeño. (Fernández, 2009).
-    .h5 Lealtad: 
+    h4 Lealtad: 
     .row
       .col-lg-6
         p Se refiere a la fidelidad que tiene un consumidor a determinada marca que depende de la variedad de productos que existen, precio o facilidad para encontrarlo. Ricardo Fernández (2009) los divide en: 
@@ -503,7 +503,7 @@
             p Consumidores que reparten su lealtad de compra en dos o más marcas; por ejemplo, una persona tiene lealtad a la Coca-Cola, sin embargo, no le importa si es Pepsi-Cola. Este grupo de consumidores aceptan promociones y pruebas con otros productos, siempre y cuando tengan las características que ellos buscan.
           div(titulo="Usuarios sin preferencias específicas: ").p-3
             p Consumen cualquier producto, generalmente su compra está influida por promociones, comparación de precios, comodidad para la compra de productos, etc.
-    .h5 Disposición de compra: 
+    h4 Disposición de compra: 
     .row
       .col-lg-6
         p Hace referencia a la actitud de compra del consumidor respecto a un producto, y la disposición de compra que genera esa actitud. Ricardo Fernández (2009) considera los siguientes usuarios: 
@@ -555,7 +555,7 @@
             td Usuario leal, usuario eventual.
     br
     br
-    .h5 Micro segmentación
+    h4 Micro segmentación
     figure.mb-5
       img(src='@/assets/curso/img43.jpg', alt='Texto que describa la imagen' )
     p.mb-5 El objetivo de la micro segmentación consiste en analizar la diversidad de las necesidades de los clientes en forma más detallada dentro de cada uno de los mercados, y con ello, identificar grupos de clientes que buscan el mismo paquete de beneficios en el producto. Esto puede llevar a una estrategia de diferenciación para obtener una ventaja competitiva sobre los rivales al satisfacer las necesidades del cliente de mejor manera. (Lambin, 2009).
@@ -583,7 +583,7 @@
             b-none , que clasifica a los clientes por su comportamiento actual de compra en el mercado. Los criterios que más comúnmente se utilizan son los del uso del producto, el volumen comprado y el estatus de lealtad.
     br
     br
-    .h5  Macro segmentación
+    h4  Macro segmentación
     figure.mb-5
       img(src='@/assets/curso/img44.jpg', alt='Texto que describa la imagen' )
     p.mb-5 En la mayoría de los mercados, es casi imposible satisfacer a todos los clientes con un único producto o servicio. Los distintos consumidores tienen deseos e intereses variados, que son resultado de diversas prácticas de compra y diferencias básicas de las necesidades de los clientes, así como de los beneficios que buscan en los productos. Por lo tanto, las empresas consideran esencial moverse del marketing masivo al marketing estratégico focalizado prestando atención a un grupo particular de clientes. (Lambin, 2009).
@@ -600,7 +600,7 @@
           figcaption Fuente: (Lambin, 2009).
     br
     br
-    .h5 Estrategias de segmentación
+    h4 Estrategias de segmentación
     figure.mb-5
       img(src='@/assets/curso/img46.jpg', alt='Texto que describa la imagen' )
     p.mb-5 Las estrategias de segmentación de mercados son alternativas de acciones que tienen las organizaciones para aplicar al segmento de mercado o mercado meta seleccionado.
@@ -608,7 +608,7 @@
       .py-4.py-md-5(titulo="Estrategia indiferenciada")
         .row
           .col-md-7.mb-4.mb-md-0
-            .h5 Estrategia indiferenciada
+            h4 Estrategia indiferenciada
             p La organización realiza para todos sus productos una mezcla de mercadeo similar, utiliza los mismos canales de distribución, la misma estrategia de precios y las mismas herramientas promocionales para todos sus productos; adicionalmente la empresa ignora las diferencias entre los segmentos de mercado y realiza la misma oferta de productos para todos ellos. Esta estrategia está basada en la economía de costos, la empresa que la aplica ahorra grandes sumas de dinero ya que la labor de planeación e investigación de mercados es prácticamente nula. (Fernández, 2009).
           .col-md-5
             figure
@@ -616,7 +616,7 @@
       .py-4.py-md-5(titulo="Estrategia diferenciada")
         .row
           .col-md-7.mb-4.mb-md-0
-            .h5 Estrategia diferenciada
+            h4 Estrategia diferenciada
             p La organización establece diferentes mezclas de mercadeo para cada una de sus líneas de producto o para cada uno de sus productos para dirigirlos a diferentes segmentos de mercado determinados de acuerdo con las variables de segmentación, la empresa tiene una variedad de productos que le permiten llegar a un mayor número de segmentos del mercado, alcanzando así una mayor cobertura y un mejor posicionamiento. Debido a la planeación y la investigación de mercados requiere costos adicionales de modificación de productos, de producción, de inventarios y de promoción. (Fernández, 2009).
           .col-md-5
             figure
@@ -624,7 +624,7 @@
       .py-4.py-md-5(titulo="Estrategia concentrada")
         .row
           .col-md-7.mb-4.mb-md-0
-            .h5 Estrategia concentrada
+            h4 Estrategia concentrada
             p Con esta estrategia la organización busca posicionarse en grupos pequeños a través de la comercialización de productos que satisfacen sus necesidades de manera general y no especifica. Busca costos de producción, administrativos, de producto y de mercadeo bajos, se debe tener cuidado porque el mercado puede cambiar sus gustos, o simplemente puede ser que los productos no sean del gusto de todos los segmentos a los que se pretende llegar y no se tiene la cobertura esperada. (Fernández, 2009).
           .col-md-5
             figure
@@ -632,7 +632,7 @@
       .py-4.py-md-5(titulo="Estrategia de posicionamiento")
         .row
           .col-md-7.mb-4.mb-md-0
-            .h5 Estrategia de posicionamiento
+            h4 Estrategia de posicionamiento
             p La adecuada elección del segmento del mercado junto con una estrategia de cobertura adecuada permite definir el posicionamiento del producto. El posicionamiento no sólo es un lugar en la mente del consumidor, comprende un concepto generalizado que tiene el consumidor, tanto positivo como negativo, sobre un producto. Para posicionar un producto en la mente del consumidor, la empresa debe tener bien definido su perfil, conocer sus gustos y preferencias y saber qué es lo que espera al comprar o consumir el producto; con esta información se puede iniciar una estrategia de posicionamiento. (Fernández, 2009).
           .col-md-5
             figure
@@ -640,7 +640,7 @@
       .py-4.py-md-5(titulo="Estrategia de micro marketing ")
         .row
           .col-md-7.mb-4.mb-md-0
-            .h5 Estrategia de micro marketing
+            h4 Estrategia de micro marketing
             p Es la práctica de adaptar los productos y programas de marketing a los gustos de individuos y lugares específicos. En vez de ver un cliente en cada individuo, ven al individuo que hay en cada cliente. Este tipo de marketing incluye el marketing local y el marketing individual. (Kotler, 2017). Ej. Adidas con las camisas del equipo de futbol Real Madrid personaliza los nombres dependiendo de los gustos y preferencias de los consumidores. 
           .col-md-5
             figure
@@ -649,7 +649,7 @@
     br
     br
     #t_1_2.titulo-segundo
-      .h4 1.2 Mercado
+      h2 1.2 Mercado
     p.mb-5 Un mercado se puede definir como la suma de compradores reales y potenciales con necesidades y deseos diferentes que se deben satisfacer. Para que los mercados se puedan definir como demandantes, aparte de la necesidad del bien o servicio, deben tener capacidad económica para comprar. (Prettel, 2016).
       br
       br
@@ -711,9 +711,9 @@
               b-none el mercado total está compuesto por el universo de personas que tienen una necesidad que debe satisfacer un producto o servicio. (Prieto, 2009).
     br
     br
-    .h5.mt-3 Mercado potencial y target
+    h4.mt-3 Mercado potencial y target
     p.mb-5 A continuación, podrá abordar los conceptos de mercado potencial (tocado en el punto anterior) y el target.
-    .h5 Mercado potencial
+    h4 Mercado potencial
     .row.mb-5
       .col-lg-6 
         figure
@@ -726,7 +726,7 @@
           |Después de que la organización ha definido sus segmentos de mercado puede entrar en uno o varios de ellos. La selección de mercado meta implica evaluar el atractivo de cada segmento y elegir uno o más segmentos a los cuales atender. La empresa debería elegir los segmentos en los que pueda generar el mayor valor del cliente y mantenerlo en el tiempo de manera rentable. (Amstrong, 2017).
     br
     br
-    .h5 Target o mercado meta
+    h4 Target o mercado meta
     .row.mb-5
       .col-lg-6 
         figure
@@ -740,7 +740,7 @@
       |Entender el consumidor ayuda a las organizaciones a determinar cuáles grupos de consumidores son blancos adecuados para dirigir sus tácticas de marketing y en qué se distinguen los usuarios frecuentes de los usuarios no frecuentes de un producto para determinar su mercado meta o target. También deben identificar quién tiende a participar en decisiones de adquisición, uso y desecho. (Hoyer, 2018).
     br 
     br 
-    .h5 Nicho
+    h4 Nicho
     p.mb-5 Fisher (2017), define 
       b nicho de mercado 
       b-none como un grupo de clientes dispuestos a casarse con sus organizaciones proveedoras, siempre y cuando éstas estén dispuestas a atenderlos plenamente en sus expectativas cada día más específicas.
@@ -758,7 +758,7 @@
       img(src='@/assets/curso/img60.svg', alt='Texto que describa la imagen')
       figcaption Fuente: Autor.
     br
-    .h5.mt-5 Consumidor
+    h4.mt-5 Consumidor
     p.mb-5 Los consumidores son personas naturales que adquieren bienes y servicios para su satisfacción personal. Son compradores de alimentos, vestuario, productos para el aseo personal y para su hogar, educación, recreación, entre otros. Precisamente debido a la magnitud que toman estos mercados, se hacen muy heterogéneos; cada consumidor desea satisfacer su necesidad de manera diferente. Toda esta compleja situación de mercado, exige una mayor gestión de la gerencia de marketing y su grupo para diseñar un producto o servicio capaz de ofrecerle a cada uno el beneficio esperado. Los consumidores, de acuerdo con el segmento al que pertenecen, así mismo se comportan frente al consumo de bienes y servicios. (Prettel, 2016).
     .row.mb-5
       .col-lg-6 
@@ -781,7 +781,7 @@
             b-none es mucho más barata que la captación de nuevos clientes por otros medios. Es importante priorizar a sus clientes.
     br
     br
-    .h5 Comportamiento
+    h4 Comportamiento
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
@@ -802,7 +802,7 @@
       |Para Philip Kotler (2016) el comportamiento de compra del consumidor se ve influido por factores culturales, sociales y personales. De éstos, los factores culturales ejercen la influencia más amplia y profunda.
     br
     br
-    .h5 Factores culturales
+    h4 Factores culturales
     .row.mb-5
       .col-lg-6 
           figure
@@ -841,7 +841,7 @@
       div(numero="9" titulo="Satisface necesidades")
         p  A través de la cultura se satisfacen las necesidades de las personas que viven dentro de ella. Permite que las personas convivan, se las aprecie y valore.
     br
-    .h5 Factores sociales
+    h4 Factores sociales
     .row.mb-5
       .col-lg-6 
           figure
@@ -853,7 +853,7 @@
             |Los grupos de referencia se dividen en grupos de pertenencia primarios que son las personas que interactúan continuamente y de manera informal, como la familia, amigos, vecinos y compañeros de trabajo y grupos de permanencia secundarios que son grupos religiosos, profesionales y sindicales que tienden a ser más formales y requieren de una interacción menos continua. Los grupos de referencia influyen en sus miembros al menos de tres maneras: exponen al individuo a nuevas conductas y estilos de vida; influyen en las actitudes y el auto concepto y crean presiones de conformidad que pueden afectar las elecciones de productos y marcas. La gente recibe también la influencia de grupos a los que no pertenece. Los grupos de aspiración son aquellos a los que a la persona le gustaría pertenecer; los grupos disociativos son grupos cuyos valores o comportamiento son rechazados por el individuo. Cuando la influencia del grupo de referencia es fuerte, los especialistas en marketing deben determinar cómo llegar a los líderes de opinión del grupo y de qué manera influir en ellos. (Kotler, 2016).
     br
     br
-    .h5 Factores personales
+    h4 Factores personales
     .row.mb-5
       .col-lg-6 
           figure
@@ -869,7 +869,7 @@
     .tarjetas-ordenadas.m-auto.mb-5
       .tarjeta--boton.color-secundario.tj.p-4.m-3
           img(src='@/assets/curso/img67.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center CULTURALES
+          h4.text-center CULTURALES
           .listado
             ul.lista-ul
               li 
@@ -883,7 +883,7 @@
                 | Clase social
       .tarjeta--boton.color-secundario.tj.p-4.m-3
           img(src='@/assets/curso/img68.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center SOCIALES
+          h4.text-center SOCIALES
           .listado
             ul.lista-ul
               li 
@@ -897,7 +897,7 @@
                 | Roles y estatus
       .tarjeta--boton.color-secundario.tj.p-4.m-3
           img(src='@/assets/curso/img69.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center PERSONALES
+          h4.text-center PERSONALES
           .listado
             ul.lista-ul
               li 
@@ -917,7 +917,7 @@
                 | Personalidad y autoconcepto
       .tarjeta--boton.color-secundario.tj.p-4.m-3
           img(src='@/assets/curso/img70.svg', alt='Texto que describa la imagen' style= "width: 80px").m-auto.mb-3
-          .h5.text-center PSÍCOLOGICOS
+          h4.text-center PSÍCOLOGICOS
           .listado
             ul.lista-ul
               li 
@@ -937,7 +937,7 @@
                 |  Actitudes
     figcaption.mb-5 Fuente: (Kotler, 2016).
     br
-    .h5 Proceso de toma de decisiones de compra
+    h4 Proceso de toma de decisiones de compra
     .row.mb-5
       .col-lg-6 
           figure
@@ -951,7 +951,7 @@
             p La decisión de Jason se caracteriza como una decisión de alto esfuerzo, lo cual significa que está dispuesto a invertir en ella mucho tiempo, así como energía mental y emocional. Identifica varios criterios que serán importantes en su decisión. El viaje será divertido, emocionante, seguro, educativo y accesible. No todas las decisiones suponen gran cantidad de esfuerzo. Jason también enfrenta decisiones de bajo esfuerzo, como cuál marca de crema dental llevar al viaje. Puede tener recuerdos perdurables acerca de la información, puesto que ha pensado mucho en ella. Los consumidores no siempre son conscientes de lo que piensan y de cómo toman sus decisiones, así que Jason quizá no sea capaz de explicar lo que afectó su elección.
           div(titulo="Evaluaciones posteriores a la toma de decisiones").p-3
             p Este paso le permite al consumidor evaluar si la decisión que tomó fue la correcta, y si compraría de nuevo esa oferta. Cuando vuelva de sus vacaciones, Jason quizás evaluará el resultado de sus decisiones. Si sus expectativas se cumplieron, y las vacaciones fueron todo lo que pensó que serían, se sentirá satisfecho. Si las vacaciones superaron sus expectativas, estará encantado. Si no estuvieron a la altura de sus expectativas, se sentirá insatisfecho. 
-    .h5 Papeles representativos en la toma de decisiones de compra
+    h4 Papeles representativos en la toma de decisiones de compra
     p.mb-5 El comprador de un producto no siempre es el consumidor del mismo, como tampoco el consumidor es siempre el decisor de la compra. Realizar un análisis de los participantes del proceso de decisión de compra es muy importante para poder identificar el mercado meta. Los participantes pueden ser una o muchas personas, dependiendo del rol y del producto. (Fernández, 2009). 
       br
       br
@@ -966,7 +966,7 @@
               figure
                   img(src='@/assets/curso/img72.svg', alt='Texto que describa la imagen')  
             .col-lg-11.col-md-10
-              .h5 Iniciador:
+              h4 Iniciador:
               p Es la persona que sugiere la idea de comprar un servicio o un bien en particular.
           .col-12
             hr
@@ -975,7 +975,7 @@
               figure
                   img(src='@/assets/curso/img73.svg', alt='Texto que describa la imagen')  
             .col-lg-11.col-md-10
-              .h5 Influenciador:
+              h4 Influenciador:
               p Es la persona cuyo punto de vista tiene incidencia en la toma de la decisión final.
           .col-12
             hr
@@ -984,7 +984,7 @@
               figure
                   img(src='@/assets/curso/img74.svg', alt='Texto que describa la imagen')  
             .col-lg-11.col-md-10
-              .h5 Decisor:
+              h4 Decisor:
               p Es la persona que decide sobre alguno de los elementos de la decisión de compra.
           .col-12
             hr
@@ -993,7 +993,7 @@
               figure
                   img(src='@/assets/curso/img75.svg', alt='Texto que describa la imagen')  
             .col-lg-11.col-md-10
-              .h5 Comprador:
+              h4 Comprador:
               p Es la persona que lleva a cabo la compra.
           .col-12
             hr
@@ -1002,11 +1002,11 @@
               figure
                   img(src='@/assets/curso/img76.svg', alt='Texto que describa la imagen')  
             .col-lg-11.col-md-10
-              .h5 Usuario:
+              h4 Usuario:
               p Es la persona que consume o utiliza el bien o servicio.
           .col-12
             hr
-    .h5 Disonancia cognitiva
+    h4 Disonancia cognitiva
     .row.mb-5
       .col-lg-6 
           figure
@@ -1015,7 +1015,7 @@
           p La disonancia cognitiva posventa, es un fenómeno que cualquier consumidor experimenta, y consiste en la insatisfacción mental que se genera entre gastar dinero en un producto y la posible utilidad del mismo. Por ejemplo, una persona que invierte sus ahorros en la compra de un automóvil, una vez cerrada la operación puede generar un sentimiento de insatisfacción por la compra, al dudar si el automóvil era o no el idóneo. Para evitar que esto suceda, es necesario dar al consumidor elementos para que sienta satisfacción por su compra, tales como: servicio, garantías, beneficios adicionales, etcétera. La disonancia es un fenómeno común, lo importante es que el consumidor tenga esta sensación la menor cantidad de tiempo posible, para ello es indispensable reconocer en el mismo las variables que determinan su personalidad, su cultura, su estatus social, etc.; es decir, su comportamiento. (Fernández, 2009).
     br
     br
-    .h5 Conductas
+    h4 Conductas
     .row.mb-5
       .col-lg-6 
           figure
@@ -1039,7 +1039,7 @@
             b-none  actividades, procesos y roles en la conducta de compra.
     br
     br
-    .h5.mb-5 Jerarquía de necesidades de Maslow
+    h4.mb-5 Jerarquía de necesidades de Maslow
     .row.mb-5
       .col-lg-6 
           figure
@@ -1071,7 +1071,7 @@
         p Se refieren al deseo del individuo por explotar todo su potencial, es decir, por convertirse en todo lo que es capaz de llegar a ser. Por ejemplo, un artista plástico tendría necesidad de expresarse a través de un lienzo. (Schiffman, 2015). Es el último escalón de la pirámide, según Maslow, un estrato difícil de alcanzar. El consumidor nunca se sentirá satisfecho y en este punto se vuelve sensible ante cualquier reclamo publicitario. (Soria, 2017).
     br
     br
-    .h5 Hábitos de compra
+    h4 Hábitos de compra
     .row.mb-5
       .col-lg-5 
           figure
@@ -1082,7 +1082,7 @@
     figure.mb-5
       img(src='@/assets/curso/img82.svg', alt='Texto que describa la imagen' )
     br  
-    .h5 Stakeholders (Grupo Interés)
+    h4 Stakeholders (Grupo Interés)
     p.mb-5 Para Prettel (2016) los grupos de interés o definidos también como stakeholders o públicos, tienen de alguna manera influencia en una organización. Entre los grupos de interés se pueden identificar:
     .tarjetas-ordenadas.m-auto.mb-5
       .tarjeta--boton.color-secundario.p-4.m-3

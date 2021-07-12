@@ -5,9 +5,9 @@
   
     .titulo-principal
       .titulo-principal__numero
-        .h3
+        span
           i.fas.fa-info
-      .h3 Introducción
+      h1 Introducción
     p.mb-5 A través de este componente formativo el aprendiz debe apropiar los elementos de entrada requeridos para la elaboración del informe de segmentación de mercados y del plan de distribución para su idea de negocio o proyecto productivo.
     figure.mb-5
       img(src="@/assets/curso/banner-intro.jpg", alt="Texto que describa la imagen")

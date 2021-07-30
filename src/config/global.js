@@ -257,96 +257,96 @@ export default {
   ],
   glosario: [
     {
-      termino: 'CANAL DE DISTRIBUCIÓN',
+      termino: 'Canal de distribución',
       significado:
         'Ruta que toma el producto o servicio para llegar desde el productor hasta el usuario final. El canal de distribución incluye las ventas directas, distribuidores mayoristas, vendedores independientes, correo directo y el comercio a detalle.',
     },
     {
-      termino: 'COMUNICACIÓN EN LA DISTRIBUCIÓN',
+      termino: 'Comunicaciones en la distribución',
       significado:
         'La estrategia en la comunicación en la distribución es un elemento estratégico de cooperación de los intermediarios hacia los clientes, que fortalece los canales de marketing.',
     },
     {
-      termino: 'COMPORTAMIENTO DEL CONSUMIDOR',
+      termino: 'Comportamiento del consumidor',
       significado:
         'Forma que un individuo llega a las decisiones relativas a la selección, compra y uso de bienes y servicios.',
     },
     {
-      termino: 'DISTRIBUCIÓN FÍSICA O LOGÍSTICA INTEGRAL',
+      termino: 'Distribución física o logística',
       significado:
         'La logística es el proceso de planear, implementar y controlar procedimientos para transportar y almacenar bienes y servicios de manera eficiente y efectiva, además de información relacionada desde el punto de origen hasta el punto de consumo, con el propósito de cumplir con los requerimientos del consumidor. ',
     },
     {
-      termino: 'ESTRATEGIAS DE DISTRIBUCIÓN',
+      termino: 'Estrategias de distribución',
       significado:
         'Las estrategias de distribución deben tener en cuenta las estrategias corporativas y las de mercadeo. En cuanto a estas últimas, es preciso acotar que pueden determinarse estrategias de distribución con respecto a las diferentes variables que componen la mezcla de mercadeo.',
     },
     {
-      termino: 'ESTRATEGIAS DE SEGMENTACIÓN',
+      termino: 'Estrategias de segmentación',
       significado:
         'Las empresas son conscientes que los compradores no son todos iguales y tienen necesidades distintas, por lo que pueden llevar a cabo diferentes estrategias de segmentación: Estrategia indiferenciada, estrategia de diferenciación y estrategia concentrada o de concentración.',
     },
     {
-      termino: 'FORMATOS COMERCIALES',
+      termino: 'Formatos comerciales',
       significado:
         'Son aquellos lugares en donde se coloca un producto a disposición del cliente de tal manera que este logre conseguirlos a un buen precio. Los formatos comerciales por lo general suelen diferenciarse por su tamaño y por la diferencia de productos existentes.',
     },
     {
-      termino: 'HÁBITO DE COMPRA',
+      termino: 'Hábito de compra',
       significado:
         'Modo acostumbrado de comportarse del comprador con respecto a los lugares de compra, desplazamientos, tipos de establecimientos visitados, frecuencia de compra, momento de la compra y clases de productos adquiridos, así como los criterios de elección que regularmente utiliza y las actitudes y opiniones que suele tener sobre los establecimientos comerciales.',
     },
     {
-      termino: 'LOGÍSTICA',
+      termino: 'Logística',
       significado:
         '«Conjunto de medios y métodos necesarios para llevar a cabo la organización de una empresa, o de un servicio, especialmente de distribución». Es fundamental para el comercio. Las actividades logísticas conforman un sistema que es el enlace entre la producción y los mercados que están separados por el tiempo y la distancia.',
     },
     {
-      termino: 'LOGÍSTICA INVERSA',
+      termino: 'Logística inversa',
       significado:
         'Gestiona el retorno de las mercancías en la cadena de suministro, de la forma más efectiva y económica posible, se encarga de la recuperación y reciclaje de envases, embalajes y residuos peligrosos; así como de los procesos de retorno de excesos de inventario, devoluciones de clientes, productos, entre otros.',
     },
     {
-      termino: 'MARKETING DIGITAL',
+      termino: 'Marketing digital',
       significado:
         'Está caracterizado por la combinación y utilización de estrategias de comercialización en medios digitales.',
     },
     {
-      termino: 'MERCADO',
+      termino: 'Mercado',
       significado:
         'Grupo identificable de consumidores con cierto poder adquisitivo, que están dispuestos y disponibles para pagar por un producto o un servicio. La totalidad de los compradores potenciales y actuales de algún producto o servicio.',
     },
     {
-      termino: 'MERCADO OBJETIVO',
+      termino: 'Mercado objetivo',
       significado:
         'Segmento de ese mercado seleccionado por la empresa para ofrecer sus productos o servicios y a los cuales la empresa espera cumplir sus necesidades y sobre el cual se desarrollan todas las estrategias de comercialización, penetración y posicionamiento.',
     },
     {
-      termino: 'NICHO DE MERCADO',
+      termino: 'Nicho de mercado',
       significado: 'Es un segmento de mercado relativamente pequeño.',
     },
     {
-      termino: 'SEGMENTACIÓN DE MERCADO',
+      termino: 'Segmentación de mercado',
       significado:
         'Es la división de los mercados para formar grupos distintos, con base en características similares.',
     },
     {
-      termino: 'SEGMENTACIÓN CONDUCTUAL',
+      termino: 'Segmentación conductual',
       significado:
         'Divide a los compradores en grupos, con base a sus conocimientos sobre un producto, su actitud ante al mismo, el uso que le dan o la forma en que responden a un producto.',
     },
     {
-      termino: 'SEGMENTACIÓN DEMOGRÁFICA',
+      termino: 'Segmentación demográfica',
       significado:
         'Es la división de grupos de consumidores en segmentos basada en características demográficas, como, edad, ingreso, género y ocupación.',
     },
     {
-      termino: 'SEGMENTACIÓN PSICOGRÁFICA',
+      termino: 'Segmentación psicográfica',
       significado:
         'Es la segmentación de los clientes por clase social, estilo de vida, características psicológicas, como las actitudes, los intereses, opiniones y valores.',
     },
     {
-      termino: 'SEGMENTACIÓN GEOGRÁFICA',
+      termino: 'Segmentación geográfica',
       significado:
         'Es la división de grupos de consumidores en segmentos analizando el lugar donde éstos habitan.',
     },
